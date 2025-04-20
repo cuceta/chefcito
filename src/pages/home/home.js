@@ -7,7 +7,12 @@ const Home = () => {
     return (
         <div className="home">
             <Nav></Nav>
-            <img src={hatAndNameLogo} alt="hat and chefcito logo"/>
+            <img className="HatNameLogo" src={hatAndNameLogo} alt="hat and chefcito logo"/>
+            <p className="slogan">Cooking Made Simple & Fun! Discover easy, delicious recipes for every <br/>
+                meal of the day, designed with your
+                busy life in mind.
+            </p>
+
         </div>
     );
 };

@@ -4,7 +4,16 @@
     background-color: #F3E6CC;
 }
 
-.home img{
-    height: 390px;
+.HatNameLogo{
+    margin-top: 100px;
+    height: 250px;
     width: auto;
 }
+
+.slogan {
+    margin-top: 5px;
+    font-family: Jacques Francois, serif;
+    font-size: 20pt;
+    margin-bottom: 100px;
+}
+
