@@ -1,0 +1,9 @@
+.background{
+    width: 100%;
+    height: 150px;
+    background-color: #685E3B;
+    margin: 0;
+    padding: 10px 0;
+    top: 0;
+    position: sticky;
+}

@@ -1,8 +1,11 @@
 import React from 'react';
+import Nav from "../nav/nav";
+import './home.css'
 
 const Home = () => {
     return (
-        <div>
+        <div className="home">
+            <Nav></Nav>
             <h1>Hello</h1>
         </div>
     );

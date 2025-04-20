@@ -1,9 +1,10 @@
 import React from 'react';
+import "./nav.css"
 
 const Nav = () => {
     return (
-        <div>
-            
+        <div className="background">
+<h4>hello nav</h4>
         </div>
     );
 };

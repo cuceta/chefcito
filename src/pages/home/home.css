@@ -1,5 +1,5 @@
-div{
+.home {
     width: 100%;
-    height: auto ;
-    background-color: wheat;
+    height: 3000px ;
+    background-color: #F3E6CC;
 }
