@@ -2,6 +2,7 @@ import React from 'react';
 import Nav from "../nav/nav";
 import './home.css'
 import hatAndNameLogo from "../../img/hatAndNameLogo.png"
+import ExploreSection from "../../ExploreSection/ExploreSection";
 
 const Home = () => {
     return (
@@ -16,6 +17,12 @@ const Home = () => {
             <h1 className="sectionHeader">
                 EXPLORE OUR DELICIOUS RECIPES
             </h1>
+
+            <div className="features">
+                <ExploreSection/>
+            </div>
+
+            <hr/>
 
         </div>
     );

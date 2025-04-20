@@ -25,3 +25,15 @@
     font-size: 30px;
     color: #854627;
 }
+
+hr {
+    margin: 0 100px;
+    height: 1px;
+    background-color: #B48954;
+    border-top: 1px solid #B48954;
+
+}
+
+/*.features {*/
+/*    height: 750px;*/
+/*}*/

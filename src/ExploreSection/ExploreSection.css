@@ -1,0 +1,21 @@
+.explore-section {
+    padding: 60px 0;
+    text-align: center;
+}
+
+.explore-section h2 {
+    font-family: 'Jacques Francois', serif;
+    color: #685e3b;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    margin-bottom: 40px;
+}
+
+.card-container {
+    display: flex;
+    flex-wrap: wrap;
+    width: 95%;
+    justify-self: center;
+    justify-content: space-evenly;
+    gap: 24px;
+}
