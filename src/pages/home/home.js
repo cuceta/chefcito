@@ -1,12 +1,13 @@
 import React from 'react';
 import Nav from "../nav/nav";
 import './home.css'
+import hatAndNameLogo from "../../img/hatAndNameLogo.png"
 
 const Home = () => {
     return (
         <div className="home">
             <Nav></Nav>
-            <h1>Hello</h1>
+            <img src={hatAndNameLogo} alt="hat and chefcito logo"/>
         </div>
     );
 };

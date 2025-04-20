@@ -3,3 +3,8 @@
     height: 3000px ;
     background-color: #F3E6CC;
 }
+
+.home img{
+    height: 390px;
+    width: auto;
+}
