@@ -13,6 +13,10 @@ const Home = () => {
                 busy life in mind.
             </p>
 
+            <h1 className="sectionHeader">
+                EXPLORE OUR DELICIOUS RECIPES
+            </h1>
+
         </div>
     );
 };
