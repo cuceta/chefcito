@@ -17,19 +17,19 @@ const RECIPES = [
     {
         image: lunchImg,
         subtitle: 'Quick and delicious lunch recipes',
-        description: 'Refuel with vibrant, simple meals perfect for a busy workday or a leisurely weekend picnic.',
+        description: 'Refuel with vibrant, simple meals perfect for a busy workday or a leisurely weekend picnic.\n\n',
         link: '/lunch'
     },
     {
         image: dinnerImg,
         subtitle: 'Filling and nutritious dinner recipes',
-        description: 'Indulge in comforting dinners that bring flavor and ease \n \nto your evening routine.',
+        description: 'Indulge in comforting dinners that bring flavor and ease to your evening routine—ideal for both weeknights and special gatherings.',
         link: '/dinner'
     },
     {
         image: snacksImg,
         subtitle: 'Healthy tasty snacks and baking recipes',
-        description: 'Satisfy your cravings with creative snack ideas and baked delights, perfect for anytime treats.',
+        description: 'Satisfy your cravings with our creative snack ideas and baked delights, perfect for anytime treats or a fun baking day.',
         link: '/snack-baking'
     }
 ];

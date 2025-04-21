@@ -6,8 +6,8 @@
     background-color: #685E3B;
     margin: 0;
     padding: 10px 0;
-    position: sticky;
-    top: 0;
+    /*position: sticky;*/
+    /*top: -50px;*/
     z-index: 20;
 }
 

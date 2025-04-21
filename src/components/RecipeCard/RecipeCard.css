@@ -8,7 +8,7 @@
     background: #2d2d23;            /* dark panel */
     position: relative;
     width: 250px;
-    height: 250px;
+    height: 275px;
     color: #f4e0b0; /* light text */
     margin-top: 65px;
     padding: 160px 16px 24px;        /* top padding makes room for the circle */
@@ -37,7 +37,7 @@
 }
 
 .card-subtitle {
-    margin:  0 15px;
+    margin:  -20px 15px;
     font-family: Jacques Francois, serif;
     font-weight: 100;
     font-size: 25px;
@@ -45,7 +45,8 @@
 }
 
 .card-description {
-    font-size: 15px;
+    font-size: 18px;
+    height: 120px;
     font-weight: lighter;
     font-family: Inria Serif, serif;
     color: #F3E6CC;
@@ -60,7 +61,7 @@
     font-family: Inria Serif, serif;
     color: #F3E6CC;
     text-decoration: none;
-    margin-top: 80px;
+    margin-top: 20px;
 }
 .card-link:hover {
     text-decoration: underline;

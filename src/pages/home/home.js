@@ -3,6 +3,7 @@ import Nav from "../../components/nav/nav";
 import './home.css'
 import hatAndNameLogo from "../../img/hatAndNameLogo.png"
 import ExploreSection from "../../components/ExploreSection/ExploreSection";
+import Footer from "../../components/footer/footer";
 
 const Home = () => {
     return (
@@ -49,6 +50,7 @@ const Home = () => {
                 </div>
             </div>
 
+            <Footer/>
 
         </div>
     );
