@@ -1,6 +1,6 @@
 [
   {
-    "title": "Energy Bites",
+    "title": "Energy \nBites",
     "ingredients": [
       "1 cup rolled oats (use certified gluten‑free oats if needed)",
       "½ cup natural peanut butter (or sunflower seed butter for nut‑free)",
@@ -45,7 +45,7 @@
     "image": "/snacksThumbnails/thumbnail.png"
   },
   {
-    "title": "Homemade Popcorn",
+    "title": "Homemade \nPopcorn",
     "ingredients": [
       "½ cup popcorn kernels",
       "2 tbsp vegetable or coconut oil",
@@ -82,7 +82,7 @@
     "image": "/snacksThumbnails/thumbnail.png"
   },
   {
-    "title": "Roasted Chickpeas",
+    "title": "Roasted \nChickpeas",
     "ingredients": [
       "1 can chickpeas, rinsed and drained",
       "1 tbsp olive oil",
@@ -104,13 +104,13 @@
     "image": "/snacksThumbnails/thumbnail.png"
   },
   {
-    "title": "Cucumber & Hummus Bites",
+    "title": "Cucumber & Hummus \nBites",
     "ingredients": [
       "1 large cucumber, sliced into rounds",
       "½ cup hummus (choose your favorite flavor)",
       "A pinch of paprika or chopped fresh parsley for garnish"
     ],
-    "allergenWarning": "Hummus may contain sesame (common in tahini); substitute with a bean-based dip if needed.",
+    "allergenWarning": "Hummus may \ncontain sesame",
     "substitutions": "Substitute hummus with a bean-based dip if needed.",
     "instructions": [
       "Wash and slice the cucumber into ½‑inch rounds.",
@@ -122,14 +122,14 @@
     "image": "/snacksThumbnails/thumbnail.png"
   },
   {
-    "title": "Yogurt and Berry Bark",
+    "title": "Yogurt and Berry \n Bark",
     "ingredients": [
       "2 cups plain Greek yogurt (or plant‑based yogurt for dairy‑free)",
       "1–2 tbsp honey or maple syrup",
       "1 cup mixed fresh berries (blueberries, raspberries, chopped strawberries)",
       "Optional: A handful of granola for crunch"
     ],
-    "allergenWarning": "Contains dairy if using traditional Greek yogurt.",
+    "allergenWarning": "Contains dairy ",
     "substitutions": "Use non-dairy yogurt for a vegan or dairy‑free option.",
     "instructions": [
       "Line a baking sheet with parchment paper. Spread the yogurt evenly over the paper to about ¼‑inch thickness.",
@@ -139,11 +139,11 @@
       "Once frozen, break the yogurt bark into pieces."
     ],
     "mealPreppingTip": "Keep any leftover bark wrapped tightly in the freezer for a cool, refreshing snack.",
-    "time": "5 minutes (plus 2–3 hours freezing)",
+    "time": "5 minutes",
     "image": "/snacksThumbnails/thumbnail.png"
   },
   {
-    "title": "Mini Veggie Frittata Bites",
+    "title": "Mini Veggie \nFrittata Bites",
     "ingredients": [
       "6 eggs (or egg substitute/flax egg for vegan)",
       "½ cup finely chopped spinach",
@@ -152,7 +152,7 @@
       "Salt and pepper, to taste",
       "Optional: ¼ cup shredded cheese (or dairy‑free alternative)"
     ],
-    "allergenWarning": "Contains eggs and dairy if cheese is used.",
+    "allergenWarning": "Contains eggs\n and dairy ",
     "substitutions": "Use egg replacer and omit or swap cheese for a dairy‑free version.",
     "instructions": [
       "Preheat your oven to 375°F (190°C).",
@@ -166,13 +166,13 @@
     "image": "/snacksThumbnails/thumbnail.png"
   },
   {
-    "title": "Cheese & Cracker Bites",
+    "title": "Cheese & Cracker \nBites",
     "ingredients": [
       "A selection of whole grain or gluten‑free crackers",
       "Sliced cheese of your choice (cheddar, Swiss, or dairy‑free alternatives)",
       "Optional: Fresh grapes or apple slices for an extra pop of flavor"
     ],
-    "allergenWarning": "Contains dairy and gluten (if standard crackers are used).",
+    "allergenWarning": "Contains dairy \nand gluten.",
     "substitutions": "Choose dairy‑free cheese and gluten‑free crackers if needed.",
     "instructions": [
       "Arrange the crackers on a plate.",
@@ -184,14 +184,14 @@
     "image": "/snacksThumbnails/thumbnail.png"
   },
   {
-    "title": "Rice Cake Snacks with Avocado",
+    "title": "Rice Cake Snacks\n with Avocado",
     "ingredients": [
       "2–3 plain rice cakes",
       "1 ripe avocado",
       "Salt and pepper, to taste",
       "Optional: A squeeze of lime and slices of tomato"
     ],
-    "allergenWarning": "Generally allergen‑free; verify rice cakes for additives if necessary.",
+    "allergenWarning": "Generally allergen‑free",
     "substitutions": "",
     "instructions": [
       "In a bowl, mash the avocado with salt, pepper, and a squeeze of lime juice if desired.",
@@ -203,7 +203,7 @@
     "image": "/snacksThumbnails/thumbnail.png"
   },
   {
-    "title": "Nut‑Free Banana Bread Muffins",
+    "title": "Nut‑Free Banana \nBread Muffins",
     "ingredients": [
       "2 ripe bananas, mashed",
       "2 eggs (or flax eggs for a vegan alternative)",
@@ -213,7 +213,7 @@
       "2 tbsp honey or maple syrup",
       "A pinch of salt"
     ],
-    "allergenWarning": "Contains eggs; use flax eggs for a vegan option.",
+    "allergenWarning": "Contains eggs",
     "substitutions": "Ensure the flour blend is nut‑free.",
     "instructions": [
       "Preheat your oven to 350°F (175°C).",
@@ -228,7 +228,7 @@
     "image": "/snacksThumbnails/thumbnail.png"
   },
   {
-    "title": "Crispy Seaweed Snacks",
+    "title": "Crispy Seaweed \nSnacks",
     "ingredients": [
       "5–6 dried seaweed sheets (nori)",
       "A light spritz of olive oil or sesame oil",
@@ -253,7 +253,7 @@
       "½ cup fruit juice or water (adjust for desired consistency)",
       "Optional: 1–2 tsp honey or maple syrup"
     ],
-    "allergenWarning": "Generally allergen‑free.",
+    "allergenWarning": "Generally allergen‑free",
     "substitutions": "",
     "instructions": [
       "In a blender, combine the fruit, juice (or water), and sweetener until smooth.",
@@ -261,7 +261,7 @@
       "Freeze for at least 4 hours or overnight until solid."
     ],
     "mealPreppingTip": "Make a large batch and store in the freezer for a refreshing, healthy treat.",
-    "time": "5 minutes (plus 4 hours freezing)",
+    "time": "5 minutes",
     "image": "/snacksThumbnails/thumbnail.png"
   },
   {
@@ -274,7 +274,7 @@
       "2–3 tbsp honey",
       "Optional: 2 tbsp dark chocolate chips"
     ],
-    "allergenWarning": "Ensure the chosen ingredients are free from common allergens (e.g., if avoiding chocolate with dairy).",
+    "allergenWarning": "Generally allergen‑free",
     "substitutions": "Adjust seeds and dried fruit as needed for specific dietary requirements.",
     "instructions": [
       "In a bowl, mix together the cereal, dried fruit, seeds, and chocolate chips (if using).",
@@ -283,7 +283,7 @@
       "Refrigerate for about 1–2 hours until clusters firm up, then break into bite‑size pieces."
     ],
     "mealPreppingTip": "Store clusters in an airtight container in the fridge for a crunchy snack.",
-    "time": "5 minutes (plus 1–2 hours chilling)",
+    "time": "5 minutes",
     "image": "/snacksThumbnails/thumbnail.png"
   },
   {
@@ -295,7 +295,7 @@
       "¼ cup dried fruit (like raisins or cranberries)",
       "Optional: 2 tbsp cocoa nibs or shredded coconut"
     ],
-    "allergenWarning": "Contains peanuts if using peanut butter.",
+    "allergenWarning": "Contains peanuts",
     "substitutions": "Use sunflower seed butter for a nut‑free version.",
     "instructions": [
       "In a medium bowl, mix together the peanut (or seed) butter and honey until smooth.",
@@ -305,7 +305,7 @@
       "Cut into bars or squares."
     ],
     "mealPreppingTip": "Keep the oat bars refrigerated in an airtight container for grab‑and‑go convenience throughout the week.",
-    "time": "5 minutes (plus 2 hours refrigeration)",
+    "time": "5 minutes",
     "image": "/snacksThumbnails/thumbnail.png"
   }
 ]
