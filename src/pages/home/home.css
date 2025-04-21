@@ -46,14 +46,14 @@ hr {
 .mission-vision-section {
     display: grid;
     grid-template-columns: repeat(2, 1fr);
-    gap: 2rem;
+    gap: 30px;
     margin-top: 50px;
     padding-bottom: 100px;
 }
 
 
 .mission p, .vision p{
-    width: 500px;
+    width: 550px;
     /*margin-top: -2px;*/
     justify-self: center;
     text-align: justify;

@@ -1,4 +1,28 @@
 .footer{
     height: 100px;
     background-color: #685e3b;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 30px;
+}
+
+.contact{
+
+}
+
+.small-logo{
+    margin: auto;
+    padding-top: 20px;
+    height: 50px;
+    width: fit-content;
+}
+
+.small-logo img{
+    height: 100%;
+    width: 100%;
+
+}
+
+.copyright-info{
+
 }
