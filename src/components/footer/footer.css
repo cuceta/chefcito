@@ -6,8 +6,11 @@
     gap: 30px;
 }
 
-.contact{
-
+.contact, .copyright-info{
+    margin-top: 18px;
+    font-family: Inria Serif, serif;
+    font-size: 15px;
+    color: #B48954;
 }
 
 .small-logo{
@@ -23,6 +26,19 @@
 
 }
 
-.copyright-info{
+.contact h4{
+    margin-bottom: -5px;
+}
+.contact p{
+    font-size: 13px;
+}
 
+.contact{
+    padding-left: 30px;
+    text-align: left;
+}
+
+.copyright-info{
+    padding-right: 30px;
+    text-align: right;
 }
