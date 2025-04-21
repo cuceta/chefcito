@@ -1,5 +1,5 @@
 import React from 'react';
-import RecipeCard from '../RecipeCard/RecipeCard';
+import FeaturedCard from '../FeaturedCard/FeaturedCard';
 import './ExploreSection.css';
 
 import breakfastImg from '../../img/breakfast.png';
@@ -7,7 +7,7 @@ import lunchImg     from '../../img/lunch.png';
 import dinnerImg    from '../../img/dinner.png';
 import snacksImg    from '../../img/snacks.png';
 
-const RECIPES = [
+const FEATURES = [
     {
         image: breakfastImg,
         subtitle: 'Energizing, easy to make breakfast recipes',
@@ -38,8 +38,8 @@ export default function ExploreSection() {
     return (
         <section className="explore-section">
             <div className="card-container">
-                {RECIPES.map((r) =>
-                    <RecipeCard
+                {FEATURES.map((r) =>
+                    <FeaturedCard
                         key={r.subtitle}
                         image={r.image}
                         subtitle={r.subtitle}

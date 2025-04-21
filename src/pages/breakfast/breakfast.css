@@ -1,5 +1,21 @@
 .breakfast-page {
-    height: 750px;
-    background-color: green;
+    margin-top: -25px;
+    background-color: #F3E6CC;
+}
 
+.breakfast-page h1{
+    padding: 100px 0 50px 0;
+    justify-self: center;
+    color: #685E3B;
+    font-family: "IM Fell French Canon SC", serif;
+    font-weight: 400;
+    font-size: 30px;
+}
+
+
+.breakfast-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    gap: 2rem;
+    margin: 2rem 2rem;
 }

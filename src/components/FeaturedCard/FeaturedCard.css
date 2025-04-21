@@ -1,0 +1,68 @@
+@import url('https://fonts.googleapis.com/css2?family=IM+Fell+French+Canon+SC&family=Inknut+Antiqua:wght@300;400;500;600;700;800;900&family=Inria+Serif:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&family=Italiana&family=Jacques+Francois&family=Source+Serif+4:ital,opsz,wght@0,8..60,200..900;1,8..60,200..900&display=swap');
+
+.featured-card {
+    position: relative;
+
+}
+.card-featured-text-container{
+    background: #2d2d23;            /* dark panel */
+    position: relative;
+    width: 250px;
+    height: 275px;
+    color: #f4e0b0; /* light text */
+    margin-top: 65px;
+    padding: 160px 16px 24px;        /* top padding makes room for the circle */
+    text-align: center;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+}
+
+.card-image-wrapper {
+    position: absolute;
+    top:   -50px;                   /* lifts the circle above the card */
+    left:  50%;
+    transform: translateX(-50%);
+    width: 225px;
+    height: 225px;
+    border: 2px solid #F3E6CC;      /* light ring */
+    border-radius: 50%;
+    overflow: hidden;
+    background: white;
+
+}
+
+.card-image-wrapper img {
+    width: 100%;
+    height:100%;
+    object-fit: cover;
+}
+
+.card-subtitle {
+    margin:  -20px 15px;
+    font-family: Jacques Francois, serif;
+    font-weight: 100;
+    font-size: 25px;
+    color: #B48954;
+}
+
+.card-description {
+    font-size: 18px;
+    height: 120px;
+    font-weight: lighter;
+    font-family: Inria Serif, serif;
+    color: #F3E6CC;
+    line-height: 1.4;
+    /*margin-bottom: 16px;*/
+    margin: 25px 0 35px 0;
+}
+
+.card-link {
+    font-size: 14px;
+    font-weight: lighter;
+    font-family: Inria Serif, serif;
+    color: #F3E6CC;
+    text-decoration: none;
+    margin-top: 20px;
+}
+.card-link:hover {
+    text-decoration: underline;
+}
