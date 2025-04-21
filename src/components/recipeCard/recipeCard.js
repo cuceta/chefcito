@@ -4,6 +4,7 @@ import './recipeCard.css';
 export default function RecipeCard({ recipe, onClick }) {
     // Split title on newline characters
     const titleLines = recipe.title.split('\n');
+    const allergiesLines = recipe.allergenWarning.split('\n');
 
     return (
         <div className="recipe-card" onClick={() => onClick(recipe)}>
@@ -26,7 +27,13 @@ export default function RecipeCard({ recipe, onClick }) {
                 <hr className="recipe-card-hr" />
                 <div className="recipe-card__meta">
                     <span className="recipe-card-spam">⏱ {recipe.time}</span>
-                    <span className="recipe-card-spam">⚠️ {recipe.allergenWarning}</span>
+                    <span className="recipe-card-spam">⚠️ {allergiesLines.map((line, idx) => (
+                        <React.Fragment key={idx}>
+                            {line}
+                            {/* only add <br/> if it’s not the last line */}
+                            {idx < allergiesLines.length - 1 && <br />}
+                        </React.Fragment>
+                    ))}</span>
                 </div>
             </div>
         </div>

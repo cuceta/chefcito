@@ -9,7 +9,7 @@
       "2 whole wheat or gluten‑free tortillas",
       "Optional: croutons for extra crunch"
     ],
-    "allergenWarning": "Contains dairy and gluten.",
+    "allergenWarning": "Contains dairy \nand gluten.",
     "substitutions": "Use a dairy‑free cheese and gluten‑free wraps if needed.",
     "instructions": [
       "In a large bowl, toss chopped romaine with chicken, Parmesan, and Caesar dressing.",
@@ -34,7 +34,7 @@
       "2 tbsp olive oil",
       "Salt and pepper, to taste"
     ],
-    "allergenWarning": "None",
+    "allergenWarning": "None commonly",
     "substitutions": "Use extra lime juice instead of cilantro if you prefer.",
     "instructions": [
       "In a large bowl, combine quinoa, black beans, bell pepper, and tomatoes.",
@@ -82,7 +82,7 @@
       "1 tsp Dijon mustard or vegan mustard",
       "Salt and pepper, to taste"
     ],
-    "allergenWarning": "Contains gluten and potential dairy",
+    "allergenWarning": "Contains gluten \nand potential dairy",
     "substitutions": "Use gluten‑free bread and check labels for additives if needed.",
     "instructions": [
       "Toast the bread slices lightly if desired.",
@@ -106,7 +106,7 @@
       "1 tbsp olive oil",
       "Salt, pepper, and dried herbs (oregano or basil)"
     ],
-    "allergenWarning": "Contains gluten and sesame in hummus",
+    "allergenWarning": "Contains gluten \nand sesame in hummus",
     "substitutions": "Use gluten‑free tortillas and substitute hummus with a bean spread if sesame is a concern.",
     "instructions": [
       "Preheat grill or grill pan to medium-high heat.",
@@ -135,7 +135,7 @@
       "1 tsp chili paste (optional, for heat)",
       "Chopped green onions and sesame seeds for garnish"
     ],
-    "allergenWarning": "Contains soy and gluten",
+    "allergenWarning": "Contains soy \nand gluten",
     "substitutions": "Use tamari for gluten-free and a gluten‑free hoisin sauce if needed.",
     "instructions": [
       "In a large pan, heat sesame oil over medium heat. Add onion, garlic, and ginger; sauté until fragrant.",
@@ -160,7 +160,7 @@
       "2 tbsp olive oil",
       "Salt and pepper, to taste"
     ],
-    "allergenWarning": "Contains gluten in standard pasta and potential dairy in pesto.",
+    "allergenWarning": "Contains gluten \nand potential dairy",
     "substitutions": "Use gluten‑free pasta and vegan pesto if needed.",
     "instructions": [
       "Cook the pasta according to package instructions; drain and rinse under cold water.",
@@ -184,7 +184,7 @@
       "Fresh mint and basil leaves",
       "For the dipping sauce: ¼ cup hoisin sauce mixed with 1 tbsp peanut butter and a splash of water"
     ],
-    "allergenWarning": "Contains peanuts and gluten",
+    "allergenWarning": "Contains peanuts \nand gluten",
     "substitutions": "Use a peanut-free sauce or sunflower seed butter if peanut allergies are a concern.",
     "instructions": [
       "Soak each rice paper in warm water for about 20–30 seconds until soft, then lay on a flat surface.",
@@ -209,7 +209,7 @@
       "2 tbsp extra-virgin olive oil",
       "Salt and pepper, to taste"
     ],
-    "allergenWarning": "Contains dairy and gluten",
+    "allergenWarning": "Contains dairy \nand gluten",
     "substitutions": "Use dairy‑free mozzarella for a dairy-free version.",
     "instructions": [
       "In a large bowl, combine the mixed greens, cherry tomatoes, and mozzarella.",
@@ -232,7 +232,7 @@
       "½ cup cooked quinoa or couscous",
       "For the dressing: 3 tbsp tahini, juice of 1 lemon, 1 garlic clove (minced), water to thin, salt to taste"
     ],
-    "allergenWarning": "Contains sesame in tahini and gluten if couscous is used.",
+    "allergenWarning": "Contains sesame \nand gluten",
     "substitutions": "Use gluten‑free grains (like quinoa) and a tahini alternative if sesame is an issue.",
     "instructions": [
       "Arrange mixed greens, quinoa, tomatoes, cucumber, and red onion in a bowl.",
@@ -257,7 +257,7 @@
       "Fresh cilantro and lime wedges",
       "1 tbsp olive oil"
     ],
-    "allergenWarning": "Contains corn and potential soy",
+    "allergenWarning": "Contains corn \nand potential soy",
     "substitutions": "Use gluten‑free tortillas if necessary.",
     "instructions": [
       "Toss sweet potato cubes in olive oil, chili powder, cumin, salt, and pepper. Roast in a 400°F (200°C) oven for 25–30 minutes until tender and lightly caramelized.",
@@ -303,7 +303,7 @@
       "Salt and pepper, to taste",
       "2 tbsp olive oil"
     ],
-    "allergenWarning": "None",
+    "allergenWarning": "None commonly",
     "substitutions": "Use a homemade vegetable broth to control ingredients.",
     "instructions": [
       "In a large pot, heat olive oil over medium heat; sauté onion, garlic, carrots, and celery until soft, about 5–7 minutes.",
@@ -327,7 +327,7 @@
       "2 tbsp your favorite vinaigrette",
       "Optional: ¼ cup crumbled feta or dairy‑free cheese"
     ],
-    "allergenWarning": "Contains dairy and gluten",
+    "allergenWarning": "Contains dairy \nand gluten",
     "substitutions": "Use a dairy‑free cheese and ensure your dressing is allergen‑friendly.",
     "instructions": [
       "In a mason jar, add the dressing to the bottom.",
@@ -351,7 +351,7 @@
       "1 tsp grated ginger",
       "Optional: red pepper flakes for heat"
     ],
-    "allergenWarning": "Contains soy and gluten",
+    "allergenWarning": "Contains soy \nand gluten",
     "substitutions": "Use tamari for a gluten‑free option.",
     "instructions": [
       "In a non‑stick pan, heat sesame oil over medium-high heat.",
@@ -374,7 +374,7 @@
       "2 green onions, sliced",
       "For the dressing: 3 tbsp soy sauce (or tamari), 1 tbsp rice vinegar, 1 tsp sesame oil, 1 tsp honey or maple syrup, 1 garlic clove (minced)"
     ],
-    "allergenWarning": "Contains soy, gluten and sesame.",
+    "allergenWarning": "Contains soy, \ngluten and sesame.",
     "substitutions": "Use rice noodles for a gluten‑free version and adjust sauce for sesame allergies.",
     "instructions": [
       "Cook soba noodles or your chosen alternative according to package instructions; rinse under cold water and drain well.",
@@ -396,7 +396,7 @@
       "1 tbsp extra‑virgin olive oil",
       "Salt and pepper, to taste"
     ],
-    "allergenWarning": "Contains potential dairy and gluten",
+    "allergenWarning": "Contains potential \ndairy and gluten",
     "substitutions": "Use a dairy‑free pesto or homemade basil blend without cheese.",
     "instructions": [
       "Place zucchini noodles in a large bowl.",
@@ -422,7 +422,7 @@
       "½ cup shredded cheese (optional; use dairy‑free cheese for dairy-free)",
       "1 tbsp olive oil"
     ],
-    "allergenWarning": "Contains dairy and potential gluten",
+    "allergenWarning": "Contains dairy \nand potential gluten",
     "substitutions": "Use a vegan ground alternative and dairy‑free cheese for a plant‑based version.",
     "instructions": [
       "Preheat your oven to 375°F (190°C).",
