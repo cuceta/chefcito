@@ -19,7 +19,6 @@ export default function RecipeCard({ recipe, onClick }) {
                     {titleLines.map((line, idx) => (
                         <React.Fragment key={idx}>
                             {line}
-                            {/* only add <br/> if it’s not the last line */}
                             {idx < titleLines.length - 1 && <br />}
                         </React.Fragment>
                     ))}
@@ -30,7 +29,6 @@ export default function RecipeCard({ recipe, onClick }) {
                     <span className="recipe-card-spam">⚠️ {allergiesLines.map((line, idx) => (
                         <React.Fragment key={idx}>
                             {line}
-                            {/* only add <br/> if it’s not the last line */}
                             {idx < allergiesLines.length - 1 && <br />}
                         </React.Fragment>
                     ))}</span>

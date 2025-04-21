@@ -9,11 +9,11 @@ export default function Lunch() {
     const [selected, setSelected] = useState(null);
 
     return (
-        <div className="breakfast-page">
+        <div className="lunch-page">
 
             <h1>LUNCH RECIPES</h1>
 
-            <div className="breakfast-grid">
+            <div className="lunch-grid">
                 {recipes.map(r => (
                     <RecipeCard
                         key={r.id}

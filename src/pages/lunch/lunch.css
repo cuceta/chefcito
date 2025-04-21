@@ -1,9 +1,9 @@
-.breakfast-page {
+.lunch-page {
     margin-top: -30px;
     background-color: #F3E6CC;
 }
 
-.breakfast-page h1{
+.lunch-page h1{
     padding: 120px 0 50px 0;
     justify-self: center;
     color: #685E3B;
@@ -13,7 +13,7 @@
 }
 
 
-.breakfast-grid {
+.lunch-grid {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
     gap: 2rem;
