@@ -2,6 +2,9 @@ import React from 'react';
 import './recipeCard.css';
 
 export default function RecipeCard({ recipe, onClick }) {
+    // Split title on newline characters
+    const titleLines = recipe.title.split('\n');
+
     return (
         <div className="recipe-card" onClick={() => onClick(recipe)}>
             <img
@@ -11,11 +14,19 @@ export default function RecipeCard({ recipe, onClick }) {
                 loading="eager"
             />
             <div className="recipe-card__body">
-                <h2 className="recipe-card__title">{recipe.title}</h2>
-                <hr className="recipe-card-hr"/>
+                <h2 className="recipe-card__title">
+                    {titleLines.map((line, idx) => (
+                        <React.Fragment key={idx}>
+                            {line}
+                            {/* only add <br/> if it’s not the last line */}
+                            {idx < titleLines.length - 1 && <br />}
+                        </React.Fragment>
+                    ))}
+                </h2>
+                <hr className="recipe-card-hr" />
                 <div className="recipe-card__meta">
                     <span className="recipe-card-spam">⏱ {recipe.time}</span>
-                    <span className="recipe-card-spam">⚠️ {recipe.allergen}</span>
+                    <span className="recipe-card-spam">⚠️ {recipe.allergenWarning}</span>
                 </div>
             </div>
         </div>

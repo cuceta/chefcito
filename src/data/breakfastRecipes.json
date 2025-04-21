@@ -4,7 +4,7 @@
     "title": "Overnight Oats with Mixed Berries",
     "image": "/breakfastThumbnails/thumbnail.png",
     "time": "5–10 minutes",
-    "allergen": "Contains dairy and nuts",
+    "allergenWarning": "Contains dairy and nuts",
     "substitutions": "Dairy‐free yogurt and an alternative milk for nut allergies",
     "ingredients": [
       "½ cup rolled oats",
@@ -25,10 +25,10 @@
   },
   {
     "id": "veggie-egg-muffins",
-    "title": "Veggie & Cheese Egg \n\n Muffins",
+    "title": "Veggie & Cheese Egg Muffins",
     "image": "/breakfastThumbnails/thumbnail.png",
     "time": "25–30 minutes",
-    "allergen": "Contains eggs and dairy",
+    "allergenWarning": "Contains eggs and dairy",
     "ingredients": [
       "6 large eggs",
       "½ cup diced bell peppers",
@@ -50,7 +50,7 @@
     "title": "Overnight Oats with Mixed Berries",
     "image": "/breakfastThumbnails/thumbnail.png",
     "time": "5–10 minutes",
-    "allergen": "Contains dairy and nuts",
+    "allergenWarning": "Contains dairy and nuts",
     "ingredients": [
       "½ cup rolled oats",
       "½ cup milk",
@@ -73,7 +73,7 @@
     "title": "Veggie & Cheese Egg Muffins",
     "image": "/breakfastThumbnails/thumbnail.png",
     "time": "25–30 minutes",
-    "allergen": "Contains eggs and dairy",
+    "allergenWarning": "Contains eggs and dairy",
     "ingredients": [
       "6 large eggs",
       "½ cup diced bell peppers",
@@ -95,7 +95,7 @@
     "title": "Overnight Oats with Mixed Berries",
     "image": "/breakfastThumbnails/thumbnail.png",
     "time": "5–10 minutes",
-    "allergen": "Contains dairy and nuts",
+    "allergenWarning": "Contains dairy and nuts",
     "ingredients": [
       "½ cup rolled oats",
       "½ cup milk",
@@ -118,7 +118,7 @@
     "title": "Veggie & Cheese Egg Muffins",
     "image": "/breakfastThumbnails/thumbnail.png",
     "time": "25–30 minutes",
-    "allergen": "Contains eggs and dairy",
+    "allergenWarning": "Contains eggs and dairy",
     "ingredients": [
       "6 large eggs",
       "½ cup diced bell peppers",
@@ -140,7 +140,7 @@
     "title": "Overnight Oats with Mixed Berries",
     "image": "/breakfastThumbnails/thumbnail.png",
     "time": "5–10 minutes",
-    "allergen": "Contains dairy and nuts",
+    "allergenWarning": "Contains dairy and nuts",
     "ingredients": [
       "½ cup rolled oats",
       "½ cup milk",
@@ -163,7 +163,7 @@
     "title": "Veggie & Cheese Egg Muffins",
     "image": "/breakfastThumbnails/thumbnail.png",
     "time": "25–30 minutes",
-    "allergen": "Contains eggs and dairy",
+    "allergenWarning": "Contains eggs and dairy",
     "ingredients": [
       "6 large eggs",
       "½ cup diced bell peppers",
