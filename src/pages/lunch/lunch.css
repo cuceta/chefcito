@@ -14,8 +14,10 @@
 
 
 .lunch-grid {
+    background-color: red;
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
-    gap: 2rem;
+    justify-items: center;
+    gap: 3rem;
     margin: 2rem 2rem 8rem 2rem;
 }

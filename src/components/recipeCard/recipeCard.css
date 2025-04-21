@@ -3,12 +3,11 @@
     /*border-radius: 8px;*/
     overflow: hidden;
     box-shadow: 0 2px 6px rgba(0,0,0,0.1);
-    cursor: pointer;
+    /*cursor: pointer;*/
+    width: 300px;
     transition: transform .15s ease-in-out;
 }
-.recipe-card:hover {
-    transform: translateY(-4px);
-}
+
 
 .recipe-card__image {
     width: 100%;
@@ -29,8 +28,15 @@
 .recipe-card__title {
     font-family: Jacques Francois, serif;
     margin: 1.5rem 1rem;
-    color: #854627;
+    color: #B48954;
     font-size: 1.25rem;
+}
+
+.recipe-card__title:hover{
+    text-decoration: underline 2px;
+    cursor: pointer;
+
+
 }
 
 .recipe-card__meta {

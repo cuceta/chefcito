@@ -2,10 +2,10 @@ import React from 'react';
 import FeaturedCard from '../FeaturedCard/FeaturedCard';
 import './ExploreSection.css';
 
-import breakfastImg from '../../img/breakfast.png';
-import lunchImg     from '../../img/lunch.png';
-import dinnerImg    from '../../img/dinner.png';
-import snacksImg    from '../../img/snacks.png';
+import breakfastImg from '../../img/breakfastFeatureThumbnail.png';
+import lunchImg     from '../../img/lunchFeatureThumbnail.png';
+import dinnerImg    from '../../img/dinnerFeatureThumbnail.png';
+import snacksImg    from '../../img/snackBakingFeatureThumbnail.png';
 
 const FEATURES = [
     {

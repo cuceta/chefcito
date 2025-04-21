@@ -9,7 +9,7 @@ export default function RecipeCard({ recipe, onClick }) {
 
 
     return (
-        <div className="recipe-card" onClick={() => onClick(recipe)}>
+        <div className="recipe-card" >
             <img
                 className="recipe-card__image"
                 src={recipe.image}
@@ -17,7 +17,7 @@ export default function RecipeCard({ recipe, onClick }) {
                 loading="eager"
             />
             <div className="recipe-card__body">
-                <h2 className="recipe-card__title">
+                <h2 className="recipe-card__title" onClick={() => onClick(recipe)}>
                     {titleLines.map((line, idx) => (
                         <React.Fragment key={idx}>
                             {line}
