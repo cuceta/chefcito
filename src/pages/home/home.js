@@ -1,13 +1,12 @@
 import React from 'react';
-import Nav from "../nav/nav";
+import Nav from "../../components/nav/nav";
 import './home.css'
 import hatAndNameLogo from "../../img/hatAndNameLogo.png"
-import ExploreSection from "../../ExploreSection/ExploreSection";
+import ExploreSection from "../../components/ExploreSection/ExploreSection";
 
 const Home = () => {
     return (
         <div className="home">
-            <Nav></Nav>
             <img className="HatNameLogo" src={hatAndNameLogo} alt="hat and chefcito logo"/>
             <p className="slogan">Cooking Made Simple & Fun! Discover easy, delicious recipes for every <br/>
                 meal of the day, designed with your

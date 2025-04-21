@@ -1,11 +1,11 @@
 import React from 'react';
-import RecipeCard from './../RecipeCard/RecipeCard';
+import RecipeCard from '../RecipeCard/RecipeCard';
 import './ExploreSection.css';
 
-import breakfastImg from '../img/breakfast.png';
-import lunchImg     from '../img/lunch.png';
-import dinnerImg    from '../img/dinner.png';
-import snacksImg    from '../img/snacks.png';
+import breakfastImg from '../../img/breakfast.png';
+import lunchImg     from '../../img/lunch.png';
+import dinnerImg    from '../../img/dinner.png';
+import snacksImg    from '../../img/snacks.png';
 
 const RECIPES = [
     {
