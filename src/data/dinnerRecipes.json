@@ -38,7 +38,7 @@
       "1 tbsp cornstarch dissolved in 2 tbsp water (optional, for thicker sauce)",
       "2 tbsp vegetable oil"
     ],
-    "allergenWarning": "Contains soy and gluten (if regular soy sauce is used).",
+    "allergenWarning": "Contains soy \nand gluten",
     "substitutions": "Use tamari for gluten‑free; substitute chicken with tofu or tempeh for vegetarian options.",
     "instructions": [
       "In a large wok or skillet, heat the oil over medium-high heat. Add the chicken slices and stir‑fry until lightly browned and cooked through (about 5–7 minutes). Remove chicken from the pan and set aside.",
@@ -62,7 +62,7 @@
       "Salt, pepper, and ½ tsp red pepper flakes (optional)",
       "2 tbsp grated Parmesan cheese (or dairy‑free substitute)"
     ],
-    "allergenWarning": "Contains gluten (in traditional pasta) and dairy (if using Parmesan).",
+    "allergenWarning": "Contains gluten \nand dairy",
     "substitutions": "Use gluten‑free pasta and dairy‑free cheese as needed.",
     "instructions": [
       "Cook the spaghetti according to package instructions; drain and set aside.",
@@ -76,7 +76,7 @@
     "image": "/dinnerThumbnails/thumbnail.png"
   },
   {
-    "title": "Slow Cooker Beef Stew",
+    "title": "Slow Cooker \nBeef Stew",
     "ingredients": [
       "1 lb beef stew meat, cubed (or use seitan for a vegetarian version)",
       "3 carrots, peeled and cut into chunks",
@@ -91,7 +91,7 @@
       "2 tbsp olive oil",
       "2 tbsp flour (use gluten‑free flour if needed) for thickening"
     ],
-    "allergenWarning": "Contains gluten if using wheat flour.",
+    "allergenWarning": "Contains gluten.",
     "substitutions": "Use gluten‑free flour for thickening; substitute beef with plant‑based protein (like seitan or mushrooms) for a vegetarian option.",
     "instructions": [
       "In a skillet, heat olive oil over medium-high heat. Brown the beef cubes on all sides (this enhances flavor).",
@@ -101,7 +101,7 @@
       "Remove the bay leaf, adjust seasonings, and serve."
     ],
     "mealPreppingTip": "Portion the stew into containers; it can be stored in the fridge for up to 4 days or frozen for longer storage.",
-    "time": "7–8 hours (low) or 3–4 hours (high)",
+    "time": "7–8 hours (low) or \n3–4 hours (high)",
     "image": "/dinnerThumbnails/thumbnail.png"
   },
   {
@@ -116,7 +116,7 @@
       "2 tbsp olive oil",
       "Salt, pepper, and 1 tsp Italian seasoning"
     ],
-    "allergenWarning": "Contains dairy (if using feta).",
+    "allergenWarning": "Contains dairy",
     "substitutions": "Use a vegan cheese alternative or omit the cheese for a dairy‑free version.",
     "instructions": [
       "Preheat your oven to 375°F (190°C).",
@@ -130,7 +130,7 @@
     "image": "/dinnerThumbnails/thumbnail.png"
   },
   {
-    "title": "Mediterranean Baked Chicken with Olives and Tomatoes",
+    "title": "Mediterranean Chicken with Olives and Tomatoes",
     "ingredients": [
       "4 boneless, skinless chicken thighs (or breasts)",
       "1 cup cherry tomatoes, halved",
@@ -142,7 +142,7 @@
       "Juice of 1 lemon",
       "Salt and pepper, to taste"
     ],
-    "allergenWarning": "None of the ingredients are major allergens; check olive brine for additives if necessary.",
+    "allergenWarning": "Generally allergen-free",
     "substitutions": "For a vegetarian option, swap chicken with hearty eggplant slices.",
     "instructions": [
       "Preheat your oven to 400°F (200°C).",
@@ -170,7 +170,7 @@
       "2 tbsp coconut oil or olive oil",
       "Salt and pepper, to taste"
     ],
-    "allergenWarning": "Contains coconut (if using coconut milk).",
+    "allergenWarning": "Contains coconut",
     "substitutions": "Use oat or almond milk (if nut allergies aren’t a concern) for a creamier base.",
     "instructions": [
       "In a large pot, heat the oil over medium heat. Sauté the chopped onion until translucent (about 3–4 minutes).",
@@ -194,7 +194,7 @@
       "1 tbsp olive oil",
       "Salt and pepper, to taste"
     ],
-    "allergenWarning": "Contains potential dairy (in traditional pesto) and gluten (if non‑vegan pesto uses cheese).",
+    "allergenWarning": "Contains potential \ndairy and gluten",
     "substitutions": "Use dairy‑free pesto and ensure tofu is prepared for vegan options.",
     "instructions": [
       "Spiralize the zucchinis into noodles (“zoodles”) using a spiralizer or vegetable peeler.",
@@ -218,7 +218,7 @@
       "2 tbsp butter (or dairy‑free butter)",
       "Salt, pepper, and ½ tsp Italian seasoning"
     ],
-    "allergenWarning": "Contains shellfish, dairy, and gluten (if regular pasta is used).",
+    "allergenWarning": "Contains shellfish, \ndairy, and gluten",
     "substitutions": "Use gluten‑free pasta, dairy‑free cream cheese or coconut cream, and omit shrimp for a vegetarian version.",
     "instructions": [
       "Cook the pasta according to package directions; set aside and keep warm.",
@@ -246,7 +246,7 @@
       "½ cup shredded cheese (or vegan cheese alternative)",
       "2 tbsp olive oil"
     ],
-    "allergenWarning": "Contains dairy if cheese is used, and potential gluten in some spice mixes.",
+    "allergenWarning": "Contains dairy \nand potential gluten",
     "substitutions": "Use a dairy‑free cheese for a vegan version.",
     "instructions": [
       "Preheat oven to 375°F (190°C).",
@@ -272,7 +272,7 @@
       "1 tsp dried rosemary or thyme",
       "Salt and pepper, to taste"
     ],
-    "allergenWarning": "Generally allergen‑free; check packaged ingredients if needed.",
+    "allergenWarning": "Generally allergen‑free",
     "substitutions": "For a vegetarian version, substitute chicken with tempeh or marinated tofu.",
     "instructions": [
       "Preheat your oven to 400°F (200°C).",
@@ -296,7 +296,7 @@
       "1 tbsp vegetable oil",
       "For the Peanut Sauce: 3 tbsp natural peanut butter (or sunflower seed butter for nut allergies), 2 tbsp soy sauce/tamari, 1 tbsp maple syrup, 1 tsp rice vinegar, water to thin"
     ],
-    "allergenWarning": "Contains soy, peanuts, and gluten (if standard soy sauce is used).",
+    "allergenWarning": "Contains soy,\n peanuts, and gluten",
     "substitutions": "Use sunflower seed butter for nut allergies and tamari for gluten‑free.",
     "instructions": [
       "Preheat your oven to 400°F (200°C). Toss tofu cubes with soy sauce and then gently coat with cornstarch. Arrange on a baking sheet and bake for 25–30 minutes until crispy, flipping halfway through.",
@@ -309,7 +309,7 @@
     "image": "/dinnerThumbnails/thumbnail.png"
   },
   {
-    "title": "Roasted Eggplant Parmesan",
+    "title": "Roasted Eggplant \nParmesan",
     "ingredients": [
       "1 large eggplant, sliced into ½‑inch rounds",
       "2 cups marinara sauce",
@@ -321,7 +321,7 @@
       "Salt and pepper, to taste",
       "Olive oil spray"
     ],
-    "allergenWarning": "Contains dairy (if using cheeses), eggs, and gluten (in breadcrumbs).",
+    "allergenWarning": "Contains dairy, \neggs, and gluten ",
     "substitutions": "Use dairy‑free cheese, a flax egg, and gluten‑free breadcrumbs for a vegan/gluten‑free version.",
     "instructions": [
       "Preheat your oven to 375°F (190°C). Season eggplant slices with salt and let them sit for 10 minutes; pat dry.",
@@ -374,7 +374,7 @@
       "Salt and pepper, to taste",
       "2 cups cooked brown rice"
     ],
-    "allergenWarning": "Contains soy, gluten (if regular soy sauce and oyster sauce are used).",
+    "allergenWarning": "Contains soy,\n and gluten ",
     "substitutions": "Use tamari and gluten‑free oyster sauce or simply omit it. For a vegetarian version, substitute steak with seitan or mushrooms.",
     "instructions": [
       "In a wok or large skillet, heat vegetable oil over high heat. Sauté the steak until just browned and remove from the pan.",
@@ -403,7 +403,7 @@
       "2 tbsp olive oil",
       "8 oz pasta (regular, whole grain, or gluten‑free)"
     ],
-    "allergenWarning": "Contains gluten if using standard pasta.",
+    "allergenWarning": "Contains gluten",
     "substitutions": "Use gluten‑free pasta if needed.",
     "instructions": [
       "In a pot, heat olive oil over medium heat. Sauté onion, garlic, carrots, and celery until soft (about 5–7 minutes).",
@@ -427,7 +427,7 @@
       "1 avocado, mashed",
       "Lettuce, tomato slices, and red onion for garnish"
     ],
-    "allergenWarning": "Contains gluten (in standard buns) and avocado (rarely an allergen, but check if needed).",
+    "allergenWarning": "Contains gluten \nand avocado",
     "substitutions": "Use gluten‑free buns; the avocado spread may be swapped for hummus if preferred.",
     "instructions": [
       "In a bowl, whisk together balsamic vinegar, olive oil, garlic, salt, and pepper. Brush the Portobello caps on both sides with the marinade.",
@@ -452,7 +452,7 @@
       "Salt and pepper, to taste",
       "For Croutons: 2 slices bread (or gluten‑free bread), cubed; 1 tbsp olive oil; 1 garlic clove, minced; salt and dried herbs (optional)"
     ],
-    "allergenWarning": "Contains dairy (if using cow’s milk) and gluten (in traditional bread croutons).",
+    "allergenWarning": "Contains dairy \n and gluten",
     "substitutions": "Use dairy‑free milk and gluten‑free bread for croutons.",
     "instructions": [
       "In a large pot, heat olive oil over medium heat and sauté onion and garlic until soft (about 5 minutes).",

@@ -5,6 +5,8 @@ export default function RecipeCard({ recipe, onClick }) {
     // Split title on newline characters
     const titleLines = recipe.title.split('\n');
     const allergiesLines = recipe.allergenWarning.split('\n');
+    const timeLines = recipe.time.split('\n');
+
 
     return (
         <div className="recipe-card" onClick={() => onClick(recipe)}>
@@ -25,7 +27,12 @@ export default function RecipeCard({ recipe, onClick }) {
                 </h2>
                 <hr className="recipe-card-hr" />
                 <div className="recipe-card__meta">
-                    <span className="recipe-card-spam">⏱ {recipe.time}</span>
+                    <span className="recipe-card-spam">⏱ {timeLines.map((line, idx) => (
+                        <React.Fragment key={idx}>
+                            {line}
+                            {idx < timeLines.length - 1 && <br />}
+                        </React.Fragment>
+                    ))}</span>
                     <span className="recipe-card-spam">⚠️ {allergiesLines.map((line, idx) => (
                         <React.Fragment key={idx}>
                             {line}
