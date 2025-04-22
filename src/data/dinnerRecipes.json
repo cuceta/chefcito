@@ -22,7 +22,7 @@
     ],
     "mealPreppingTip": "Roast a batch of vegetables and prepare individual portions of salmon. Store in airtight containers and reheat in a 350°F oven for a few minutes.",
     "time": "30 minutes",
-    "image": "/dinnerThumbnails/thumbnail.png"
+    "image": "/dinnerThumbnails/BakedLemonHerbSalmonwithRoastedVegetables.png"
   },
   {
     "title": "Easy Chicken Stir‑Fry with Broccoli",
@@ -48,7 +48,7 @@
     ],
     "mealPreppingTip": "Prepare the stir‑fry and store in individual meal prep containers; reheat in the microwave for 2–3 minutes, and pack steamed rice separately to retain texture.",
     "time": "20 minutes",
-    "image": "/dinnerThumbnails/thumbnail.png"
+    "image": "/dinnerThumbnails/EasyChickenStir‑FrywithBroccoli.png"
   },
   {
     "title": "Veggie‑Packed Spaghetti with Tomato Basil Sauce",
@@ -73,7 +73,7 @@
     ],
     "mealPreppingTip": "Store pasta and sauce together in airtight containers. When reheating, add a splash of water or olive oil to restore moisture.",
     "time": "20 minutes",
-    "image": "/dinnerThumbnails/thumbnail.png"
+    "image": "/dinnerThumbnails/Veggie‑PackedSpaghettiwithTomatoBasilSauce.png"
   },
   {
     "title": "Slow Cooker \nBeef Stew",
@@ -102,7 +102,7 @@
     ],
     "mealPreppingTip": "Portion the stew into containers; it can be stored in the fridge for up to 4 days or frozen for longer storage.",
     "time": "7–8 hours (low) or \n3–4 hours (high)",
-    "image": "/dinnerThumbnails/thumbnail.png"
+    "image": "/dinnerThumbnails/SlowCookerBeefStew.png"
   },
   {
     "title": "Stuffed Portobello Mushrooms with Quinoa",
@@ -127,7 +127,7 @@
     ],
     "mealPreppingTip": "Prepare the stuffed mushrooms ahead and reheat individually in the oven or microwave for a quick dinner.",
     "time": "35 minutes",
-    "image": "/dinnerThumbnails/thumbnail.png"
+    "image": "/dinnerThumbnails/StuffedPortobelloMushroomswithQuinoa.png"
   },
   {
     "title": "Mediterranean Chicken with Olives and Tomatoes",
@@ -153,7 +153,7 @@
     ],
     "mealPreppingTip": "Prepare the dish in a larger baking tray; store leftovers in containers for a balanced, ready‑to‑reheat dinner.",
     "time": "40 minutes",
-    "image": "/dinnerThumbnails/thumbnail.png"
+    "image": "/dinnerThumbnails/MediterraneanChickenwithOlivesandTomatoes.png"
   },
   {
     "title": "Vegan Chickpea Curry with Spinach",
@@ -182,7 +182,7 @@
     ],
     "mealPreppingTip": "Divide into mason jars or containers. This curry tastes even better the next day as flavors meld.",
     "time": "20 minutes",
-    "image": "/dinnerThumbnails/thumbnail.png"
+    "image": "/dinnerThumbnails/VeganChickpeaCurrywithSpinach.png"
   },
   {
     "title": "Pesto Zoodle Pasta with Grilled Chicken or Tofu",
@@ -204,7 +204,7 @@
     ],
     "mealPreppingTip": "Keep the pesto separate until serving to avoid soggy zoodles. Pack chicken or tofu ahead for quick assembly.",
     "time": "20 minutes",
-    "image": "/dinnerThumbnails/thumbnail.png"
+    "image": "/dinnerThumbnails/PestoZoodlePastawithGrilledChickenorTofu.png"
   },
   {
     "title": "Creamy Shrimp & Broccoli Alfredo",
@@ -231,7 +231,7 @@
     ],
     "mealPreppingTip": "Pack pasta and sauce separately; reheat on the stovetop with a splash of water, then combine with freshly cooked or reheated broccoli and shrimp.",
     "time": "25 minutes",
-    "image": "/dinnerThumbnails/thumbnail.png"
+    "image": "/dinnerThumbnails/CreamyShrimp&BroccoliAlfredo.png"
   },
   {
     "title": "Vegetarian Stuffed Bell Peppers",
@@ -257,7 +257,7 @@
     ],
     "mealPreppingTip": "Prepare the filling ahead; assemble and bake when ready. Leftovers reheat well in the microwave.",
     "time": "45 minutes",
-    "image": "/dinnerThumbnails/thumbnail.png"
+    "image": "/dinnerThumbnails/VegetarianStuffedBellPeppers.png"
   },
   {
     "title": "One‑Pan Chicken and Veggies Bake",
@@ -283,7 +283,7 @@
     ],
     "mealPreppingTip": "Portion leftovers into containers for an easy reheat. The dish improves in flavor the next day.",
     "time": "50 minutes",
-    "image": "/dinnerThumbnails/thumbnail.png"
+    "image": "/dinnerThumbnails/One‑PanChickenandVeggiesBake.png"
   },
   {
     "title": "Crispy Baked Tofu with Peanut Sauce",
@@ -306,7 +306,7 @@
     ],
     "mealPreppingTip": "Prepare extra tofu and sauce in advance. Store the sautéed vegetables separately and combine when reheating.",
     "time": "40 minutes",
-    "image": "/dinnerThumbnails/thumbnail.png"
+    "image": "/dinnerThumbnails/CrispyBakedTofuwithPeanutSauce.png"
   },
   {
     "title": "Roasted Eggplant \nParmesan",
@@ -331,7 +331,7 @@
     ],
     "mealPreppingTip": "Assemble the eggplant Parmesan in a baking dish; refrigerate and reheat in the oven for a comforting dinner.",
     "time": "45 minutes",
-    "image": "/dinnerThumbnails/thumbnail.png"
+    "image": "/dinnerThumbnails/RoastedEggplant Parmesan.png"
   },
   {
     "title": "Coconut Lime Chicken Curry",
@@ -359,7 +359,7 @@
     ],
     "mealPreppingTip": "Store in portioned containers and serve over rice or quinoa. The flavors deepen after a day in the fridge.",
     "time": "30 minutes",
-    "image": "/dinnerThumbnails/thumbnail.png"
+    "image": "/dinnerThumbnails/CoconutLimeChickenCurry.png"
   },
   {
     "title": "Beef and Broccoli with Brown Rice",
@@ -385,7 +385,7 @@
     ],
     "mealPreppingTip": "Portion the rice and stir‑fry separately in microwave‑safe containers; reheat thoroughly before eating.",
     "time": "15 minutes",
-    "image": "/dinnerThumbnails/thumbnail.png"
+    "image": "/dinnerThumbnails/BeefandBroccoliwithBrownRice.png"
   },
   {
     "title": "Hearty Lentil Bolognese over Pasta",
@@ -413,7 +413,7 @@
     ],
     "mealPreppingTip": "This dish freezes well in individual portions and can be quickly reheated on the stovetop or in the microwave.",
     "time": "40 minutes",
-    "image": "/dinnerThumbnails/thumbnail.png"
+    "image": "/dinnerThumbnails/HeartyLentilBologneseoverPasta.png"
   },
   {
     "title": "Grilled Portobello Burger with Avocado Spread",
@@ -438,7 +438,7 @@
     ],
     "mealPreppingTip": "Marinate the mushrooms ahead of time and store them in the refrigerator. Assemble burgers fresh to avoid sogginess.",
     "time": "20 minutes",
-    "image": "/dinnerThumbnails/thumbnail.png"
+    "image": "/dinnerThumbnails/GrilledPortobelloBurgerwithAvocadoSpread.png"
   },
   {
     "title": "Creamy Cauliflower Soup with Garlic Croutons",
@@ -464,6 +464,6 @@
     ],
     "mealPreppingTip": "The soup stores well in the refrigerator for up to 4 days. Reheat on the stovetop and add freshly made croutons right before eating.",
     "time": "35 minutes",
-    "image": "/dinnerThumbnails/thumbnail.png"
+    "image": "/dinnerThumbnails/CreamyCauliflowerSoupwithGarlicCroutons.png"
   }
 ]
