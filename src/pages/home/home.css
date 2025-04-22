@@ -1,25 +1,27 @@
 @import url('https://fonts.googleapis.com/css2?family=IM+Fell+French+Canon+SC&family=Inknut+Antiqua:wght@300;400;500;600;700;800;900&family=Italiana&family=Jacques+Francois&family=Source+Serif+4:ital,opsz,wght@0,8..60,200..900;1,8..60,200..900&display=swap');
 
 .home {
-    text-align: center;          /* centers inline and inline-block children */
+    text-align: center;         
     width: 100%;
     background-color: #F3E6CC;
 }
 
-/* For any block-level element that you want to shrink‑wrap and sit centered: */
 .HatNameLogo,
 .slogan,
 .sectionHeader,
 .features,
 hr {
-    margin: 0 auto;              /* top/bottom 0, left/right auto */
+    margin: 0 auto;
 }
 
 
-.HatNameLogo{
+.HatNameLogo {
+    display: inline-block;
+    will-change: transform;
     margin-top: 180px;
     height: 250px;
     width: auto;
+    animation: smoothWave 3s ease-in-out infinite;
 }
 
 .slogan {
@@ -55,7 +57,6 @@ hr {
 
 .mission p, .vision p{
     width: 550px;
-    /*margin-top: -2px;*/
     justify-self: center;
     text-align: justify;
     font-family: Inria Serif, serif;
@@ -63,6 +64,22 @@ hr {
     font-size: 20px;
 }
 
-/*.features {*/
-/*    height: 750px;*/
-/*}*/
+
+.HatNameLogo {
+    display: inline-block;
+    will-change: transform;
+    transform-origin: bottom center;
+    animation: smoothWave 5s linear infinite;
+}
+
+@keyframes smoothWave {
+    0%   { transform: translateY(0)   rotate(0deg)   skewX(0deg); }
+    12%  { transform: translateY(-8px) rotate(3deg)   skewX(1.5deg); }
+    25%  { transform: translateY(0)   rotate(0deg)   skewX(0deg); }
+    37%  { transform: translateY(8px) rotate(-3deg)  skewX(-1.5deg); }
+    50%  { transform: translateY(0)   rotate(0deg)   skewX(0deg); }
+    62%  { transform: translateY(-8px) rotate(3deg)  skewX(1.5deg); }
+    75%  { transform: translateY(0)   rotate(0deg)   skewX(0deg); }
+    87%  { transform: translateY(8px) rotate(-3deg)  skewX(-1.5deg); }
+    100% { transform: translateY(0)   rotate(0deg)   skewX(0deg); }
+}
