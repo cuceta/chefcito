@@ -21,7 +21,7 @@ const Nav = () => (
                 <Link to="/dinner">DINNER</Link>
             </li>
             <li className="nav-item">
-                <Link to="/snack">SNACK/BAKING</Link>
+                <Link to="/snack">SNACK</Link>
             </li>
         </ul>
     </div>
