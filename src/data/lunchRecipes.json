@@ -19,7 +19,7 @@
     ],
     "mealPreppingTip": "Prepare the salad a few hours ahead and assemble the wraps just before serving to keep the tortillas from getting soggy.",
     "time": "15 minutes",
-    "image": "/lunchThumbnails/thumbnail.png"
+    "image": "/lunchThumbnails/ChickenCaesarSaladWraps.png"
   },
   {
     "title": "Quinoa & Black Bean Salad with Avocado",
@@ -44,7 +44,7 @@
     ],
     "mealPreppingTip": "Store the base salad in an airtight container and add the avocado and cilantro fresh when ready to enjoy.",
     "time": "20 minutes",
-    "image": "/lunchThumbnails/thumbnail.png"
+    "image": "/lunchThumbnails/Quinoa&BlackBeanSaladwithAvocado.png"
   },
   {
     "title": "Mediterranean Chickpea Bowl",
@@ -69,7 +69,7 @@
     ],
     "mealPreppingTip": "Pack ingredients separately in meal prep containers and combine when ready to serve for maximum freshness.",
     "time": "10 minutes",
-    "image": "/lunchThumbnails/thumbnail.png"
+    "image": "/lunchThumbnails/MediterraneanChickpeaBowl.png"
   },
   {
     "title": "Turkey & Avocado Club Sandwich",
@@ -93,7 +93,7 @@
     ],
     "mealPreppingTip": "For meal prep, pack the components separately and assemble the sandwich just before eating to maintain texture.",
     "time": "10 minutes",
-    "image": "/lunchThumbnails/thumbnail.png"
+    "image": "/lunchThumbnails/Turkey&AvocadoClubSandwich.png"
   },
   {
     "title": "Grilled Vegetable & Hummus Wrap",
@@ -117,7 +117,7 @@
     ],
     "mealPreppingTip": "Grill extra vegetables and store them in an airtight container. Assemble the wrap fresh for the best texture.",
     "time": "15 minutes",
-    "image": "/lunchThumbnails/thumbnail.png"
+    "image": "/lunchThumbnails/GrilledVegetable&HummusWrap.png"
   },
   {
     "title": "Asian-Inspired Lettuce Wraps",
@@ -147,7 +147,7 @@
     ],
     "mealPreppingTip": "Store the cooked filling and lettuce leaves separately. Reheat the filling, then serve in fresh lettuce wraps at mealtime.",
     "time": "15 minutes",
-    "image": "/lunchThumbnails/thumbnail.png"
+    "image": "/lunchThumbnails/Asian-InspiredLettuceWraps.png"
   },
   {
     "title": "Pesto Pasta Salad with Veggies",
@@ -170,7 +170,7 @@
     ],
     "mealPreppingTip": "Store in an airtight container. Taste may improve the next day as flavors meld, or add a splash of olive oil before serving.",
     "time": "15 minutes",
-    "image": "/lunchThumbnails/thumbnail.png"
+    "image": "/lunchThumbnails/PestoPastaSaladwithVeggies.png"
   },
   {
     "title": "Vietnamese Rice Paper Rolls",
@@ -195,7 +195,7 @@
     ],
     "mealPreppingTip": "Prepare and store components separately. Soak and roll the papers fresh at mealtime for the best texture.",
     "time": "20 minutes",
-    "image": "/lunchThumbnails/thumbnail.png"
+    "image": "/lunchThumbnails/VietnameseRicePaperRolls.png"
   },
   {
     "title": "Caprese Chicken \n Salad",
@@ -219,7 +219,7 @@
     ],
     "mealPreppingTip": "Pack ingredients in separate containers and combine when ready to serve to avoid wilting.",
     "time": "10 minutes",
-    "image": "/lunchThumbnails/thumbnail.png"
+    "image": "/lunchThumbnails/CapreseChickenSalad.png"
   },
   {
     "title": "Falafel Bowl with Tahini Sauce",
@@ -242,7 +242,7 @@
     ],
     "mealPreppingTip": "Falafel can be made in large batches and stored in airtight containers. Pack the vegetables and dressing separately to assemble fresh.",
     "time": "10 minutes",
-    "image": "/lunchThumbnails/thumbnail.png"
+    "image": "/lunchThumbnails/FalafelBowlwithTahiniSauce.png"
   },
   {
     "title": "Sweet Potato & Black Bean Tacos",
@@ -267,10 +267,10 @@
     ],
     "mealPreppingTip": "Pre-roast a large batch of sweet potatoes and store them with the beans in airtight containers. Reheat and assemble tacos when ready.",
     "time": "35 minutes",
-    "image": "/lunchThumbnails/thumbnail.png"
+    "image": "/lunchThumbnails/SweetPotato&BlackBeanTacos.png"
   },
   {
-    "title": "Buddha Bowl with Roasted Veggies & Tahini Dressing",
+    "title": "Buddha Bowl with Roasted Veggies",
     "ingredients": [
       "1 cup cooked brown rice or quinoa",
       "1 cup roasted broccoli or cauliflower",
@@ -287,7 +287,7 @@
     ],
     "mealPreppingTip": "Assemble individual bowls in advance. Keep the dressing separately and add right before eating for optimal texture.",
     "time": "30 minutes",
-    "image": "/lunchThumbnails/thumbnail.png"
+    "image": "/lunchThumbnails/BuddhaBowlwithRoastedVeggies.png"
   },
   {
     "title": "Lentil & Vegetable \n Soup",
@@ -313,7 +313,7 @@
     ],
     "mealPreppingTip": "Soups taste better the next day; store in portioned containers and reheat as needed.",
     "time": "40 minutes",
-    "image": "/lunchThumbnails/thumbnail.png"
+    "image": "/lunchThumbnails/Lentil&VegetableSoup.png"
   },
   {
     "title": "Mason Jar Salad with Layered Protein",
@@ -337,7 +337,7 @@
     ],
     "mealPreppingTip": "Mason jar salads can be assembled a few days ahead; keeping the dressing separate helps prevent sogginess.",
     "time": "5 minutes",
-    "image": "/lunchThumbnails/thumbnail.png"
+    "image": "/lunchThumbnails/MasonJarSaladwithLayeredProtein.png"
   },
   {
     "title": "Tofu Stir‑Fry Rice \n Bowl",
@@ -362,7 +362,7 @@
     ],
     "mealPreppingTip": "Prepare and store the tofu and veggies separately from the rice; reheat together before serving for a fresher taste.",
     "time": "15 minutes",
-    "image": "/lunchThumbnails/thumbnail.png"
+    "image": "/lunchThumbnails/TofuStir‑FryRiceBowl.png"
   },
   {
     "title": "Cold Soba Noodle \n Salad",
@@ -384,7 +384,7 @@
     ],
     "mealPreppingTip": "Store the cold noodle salad in airtight containers in the refrigerator. It can be enjoyed as a light lunch or side dish.",
     "time": "15 minutes",
-    "image": "/lunchThumbnails/thumbnail.png"
+    "image": "/lunchThumbnails/ColdSobaNoodleSalad.png"
   },
   {
     "title": "Zucchini Noodle & Tomato Salad",
@@ -406,10 +406,10 @@
     ],
     "mealPreppingTip": "Zucchini noodles are best prepared fresh. You can store the pesto separately and toss together right before serving.",
     "time": "10 minutes",
-    "image": "/lunchThumbnails/thumbnail.png"
+    "image": "/lunchThumbnails/ZucchiniNoodle&TomatoSalad.png"
   },
   {
-    "title": "Stuffed Bell Peppers with Ground Turkey & Veggies",
+    "title": "Ground Turkey Stuffed Bell Peppers",
     "ingredients": [
       "4 bell peppers (any color), tops cut off and seeds removed",
       "1 lb ground turkey (or plant-based crumbles for a vegetarian option)",
@@ -434,6 +434,6 @@
     ],
     "mealPreppingTip": "Prepare stuffed peppers in advance and reheat in the oven or microwave when ready to serve.",
     "time": "50 minutes",
-    "image": "/lunchThumbnails/thumbnail.png"
+    "image": "/lunchThumbnails/GroundTurkeyStuffedBellPeppers.png"
   }
 ]
