@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import recipes from '../../data/snackBakingRecipes.json';
+import recipes from '../../data/snackRecipes.json';
 import RecipeCard from '../../components/recipeCard/recipeCard';
 import Footer from '../../components/footer/footer';
 import './snack.css';
