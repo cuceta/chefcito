@@ -1,6 +1,6 @@
 .footer{
     height: 100px;
-    background-color: #685e3b;
+    background-color: #2D2D23;
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     gap: 30px;
