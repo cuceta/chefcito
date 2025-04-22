@@ -20,7 +20,7 @@
     ],
     "mealPreppingTip": "Store in an airtight container in the fridge for up to one week.",
     "time": "35 minutes",
-    "image": "/snacksThumbnails/thumbnail.png"
+    "image": "/snacksThumbnails/EnergyBites.png"
   },
   {
     "title": "Veggie Chips with Guacamole",
@@ -42,7 +42,7 @@
     ],
     "mealPreppingTip": "Bake a batch of chips and store in a sealed container for a couple of days. Prepare the guacamole fresh to avoid browning, or store the mashed avocado with a little extra lime juice and a thin layer of olive oil on top.",
     "time": "20 minutes",
-    "image": "/snacksThumbnails/thumbnail.png"
+    "image": "/snacksThumbnails/VeggieChipswithGuacamole.png"
   },
   {
     "title": "Homemade \nPopcorn",
@@ -62,7 +62,7 @@
     ],
     "mealPreppingTip": "Popcorn is best enjoyed fresh for maximum crunch; however, store any leftovers in an airtight container for up to one day.",
     "time": "5 minutes",
-    "image": "/snacksThumbnails/thumbnail.png"
+    "image": "/snacksThumbnails/HomemadePopcorn.png"
   },
   {
     "title": "Apple Slices with Almond Butter",
@@ -79,7 +79,7 @@
     ],
     "mealPreppingTip": "To prevent browning, lightly drizzle the apple slices with lemon juice and store in an airtight container in the fridge. Enjoy within the same day for best texture.",
     "time": "5 minutes",
-    "image": "/snacksThumbnails/thumbnail.png"
+    "image": "/snacksThumbnails/AppleSliceswithAlmondButter.png"
   },
   {
     "title": "Roasted \nChickpeas",
@@ -101,7 +101,7 @@
     ],
     "mealPreppingTip": "Store in a sealed container for up to 3 days for a crunchy, protein-packed snack.",
     "time": "30 minutes",
-    "image": "/snacksThumbnails/thumbnail.png"
+    "image": "/snacksThumbnails/RoastedChickpeas.png"
   },
   {
     "title": "Cucumber & Hummus \nBites",
@@ -119,7 +119,7 @@
     ],
     "mealPreppingTip": "Assemble fresh when ready to eat; if prepping ahead, store the cucumber slices and hummus separately and assemble just before serving to maintain crunch.",
     "time": "5 minutes",
-    "image": "/snacksThumbnails/thumbnail.png"
+    "image": "/snacksThumbnails/Cucumber&HummusBites.png"
   },
   {
     "title": "Yogurt and Berry \n Bark",
@@ -140,7 +140,7 @@
     ],
     "mealPreppingTip": "Keep any leftover bark wrapped tightly in the freezer for a cool, refreshing snack.",
     "time": "5 minutes",
-    "image": "/snacksThumbnails/thumbnail.png"
+    "image": "/snacksThumbnails/YogurtandBerryBark.png"
   },
   {
     "title": "Mini Veggie \nFrittata Bites",
@@ -163,7 +163,7 @@
     ],
     "mealPreppingTip": "Store in an airtight container in the refrigerator. Reheat in the microwave for 20–30 seconds when ready to eat.",
     "time": "20 minutes",
-    "image": "/snacksThumbnails/thumbnail.png"
+    "image": "/snacksThumbnails/MiniVeggieFrittataBites.png"
   },
   {
     "title": "Cheese & Cracker \nBites",
@@ -181,7 +181,7 @@
     ],
     "mealPreppingTip": "Pack crackers and cheese separately if preparing ahead; assemble just before serving to keep the crackers crisp.",
     "time": "5 minutes",
-    "image": "/snacksThumbnails/thumbnail.png"
+    "image": "/snacksThumbnails/Cheese&CrackerBites.png"
   },
   {
     "title": "Rice Cake Snacks\n with Avocado",
@@ -200,7 +200,7 @@
     ],
     "mealPreppingTip": "Assemble fresh to retain the crisp texture of rice cakes. Pre-slice avocado and add a little lemon juice in an airtight container, then spread over the rice cakes right before eating.",
     "time": "5 minutes",
-    "image": "/snacksThumbnails/thumbnail.png"
+    "image": "/snacksThumbnails/RiceCakeSnackswithAvocado.png"
   },
   {
     "title": "Nut‑Free Banana \nBread Muffins",
@@ -225,7 +225,7 @@
     ],
     "mealPreppingTip": "Allow muffins to cool completely before storing in an airtight container in the fridge for up to 3 days.",
     "time": "25 minutes",
-    "image": "/snacksThumbnails/thumbnail.png"
+    "image": "/snacksThumbnails/Nut‑FreeBananaBreadMuffins.png"
   },
   {
     "title": "Crispy Seaweed \nSnacks",
@@ -244,7 +244,7 @@
     ],
     "mealPreppingTip": "Store in an airtight container to retain crispness.",
     "time": "15 minutes",
-    "image": "/snacksThumbnails/thumbnail.png"
+    "image": "/snacksThumbnails/CrispySeaweedSnacks.png"
   },
   {
     "title": "Frozen Fruit Pops",
@@ -262,7 +262,7 @@
     ],
     "mealPreppingTip": "Make a large batch and store in the freezer for a refreshing, healthy treat.",
     "time": "5 minutes",
-    "image": "/snacksThumbnails/thumbnail.png"
+    "image": "/snacksThumbnails/FrozenFruitPops.png"
   },
   {
     "title": "Trail Mix Clusters",
@@ -284,7 +284,7 @@
     ],
     "mealPreppingTip": "Store clusters in an airtight container in the fridge for a crunchy snack.",
     "time": "5 minutes",
-    "image": "/snacksThumbnails/thumbnail.png"
+    "image": "/snacksThumbnails/TrailMixClusters.png"
   },
   {
     "title": "No‑Bake Oat Bars",
@@ -306,6 +306,6 @@
     ],
     "mealPreppingTip": "Keep the oat bars refrigerated in an airtight container for grab‑and‑go convenience throughout the week.",
     "time": "5 minutes",
-    "image": "/snacksThumbnails/thumbnail.png"
+    "image": "/snacksThumbnails/No‑BakeOatBars.png"
   }
 ]
