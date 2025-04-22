@@ -5,7 +5,7 @@ import {Link} from "react-router-dom";
 
 const Footer = () => {
     return (
-        <div className="footer">
+        <footer id="page-footer" className="footer">
             <div className="contact">
                 <h4>For recipe recommendations:</h4>
                 <p>CONTACT US  AT chefcito.recommendations@gmail.org</p>
@@ -22,7 +22,7 @@ const Footer = () => {
                     Copyright &copy; 2025 Chefcito<br/>All rights reserved
                 </h4>
             </div>
-        </div>
+        </footer>
     );
 };
 

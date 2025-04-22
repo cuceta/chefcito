@@ -5,6 +5,7 @@ import Lunch     from './pages/lunch/lunch';
 import Dinner    from './pages/dinner/dinner';
 import Snack     from './pages/snack/snack';
 import Home from './pages/home/home'
+import ToTop from "./components/toTop/toTop";
 
 function App() {
     return (

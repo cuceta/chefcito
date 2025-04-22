@@ -4,6 +4,7 @@ import RecipeCard from '../../components/recipeCard/recipeCard';
 import Footer from '../../components/footer/footer';
 import './breakfast.css';
 import RecipeModal from '../../components/RecipeModal/RecipeModal';
+import ToTop from "../../components/toTop/toTop";
 
 export default function Breakfast() {
     const [selected, setSelected] = useState(null);
@@ -29,6 +30,8 @@ export default function Breakfast() {
                     onClose={() => setSelected(null)}
                 />
             )}
+
+            <ToTop/>
 
             <Footer />
         </div>

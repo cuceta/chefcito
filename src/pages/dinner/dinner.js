@@ -4,6 +4,7 @@ import RecipeCard from '../../components/recipeCard/recipeCard';
 import Footer from '../../components/footer/footer';
 import './dinner.css';
 import RecipeModal from '../../components/RecipeModal/RecipeModal';
+import ToTop from "../../components/toTop/toTop";
 
 export default function Dinner() {
     const [selected, setSelected] = useState(null);
@@ -29,7 +30,7 @@ export default function Dinner() {
                     onClose={() => setSelected(null)}
                 />
             )}
-
+            <ToTop/>
             <Footer />
         </div>
     );

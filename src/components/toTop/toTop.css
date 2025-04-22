@@ -1,0 +1,35 @@
+.toTop {
+    position: fixed;
+    right: 20px;
+    /* bottom is handled inline */
+    z-index: 10000;
+    cursor: pointer;
+}
+.toTop-container {
+    width: 48px; height: 48px;
+    background: rgba(104, 94, 59, 0.8);
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: background 0.2s;
+}
+.toTop-container:hover {
+    background: rgba(45, 45, 35, 0.9);
+    animation: bounce 0.8s infinite;
+
+}
+.toTop-img {
+    width: 24px;
+    height: 24px;
+}
+
+
+@keyframes bounce {
+    0%, 100% {
+        transform: translateY(0);
+    }
+    50% {
+        transform: translateY(-6px);
+    }
+}
