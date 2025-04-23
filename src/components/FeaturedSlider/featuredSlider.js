@@ -1,6 +1,6 @@
 import React from 'react';
 import { Swiper, SwiperSlide } from 'swiper/react';
-import { Navigation, Pagination, Autoplay } from 'swiper/modules';
+import { Navigation, Autoplay } from 'swiper/modules';
 import 'swiper/css';
 import 'swiper/css/navigation';
 import 'swiper/css/pagination';
@@ -74,31 +74,31 @@ const FEATURES = [
 export default function ExploreSectionSlider() {
     return (
         <section className="explore-section">
-            {/*<h2 className="explore-heading">Explore Our Delicious Recipes</h2>*/}
-            <Swiper className="swiper"
-                    modules={[Navigation, Pagination, Autoplay]}
-                    loop={true}
-                    autoplay={{delay: 2000, disableOnInteraction: true}}
-                    navigation
-                    pagination={{clickable: true}}
-                    spaceBetween={20}
-                    breakpoints={{
-                        // desktop: 3 slides
-                        1100: {slidesPerView: 3},
-                        // tablet: 2 slides
-                        600: {slidesPerView: 2},
-                        // mobile: 1 slide
-                        0: {slidesPerView: 1},
-                    }}
+            <Swiper
+                modules={[Navigation, Autoplay]}
+                loop={true}
+                loopedSlides={FEATURES.length}      // clone all slides so peeks at ends
+                initialSlide={0}                    // start on the very first
+                centeredSlides={true}               // active slide is centered
+                slidesPerView={'auto'}              // width dictated by CSS
+                spaceBetween={16}
+                navigation
+                autoplay={{ delay: 3000, disableOnInteraction: false }}
+                breakpoints={{
+                    // on desktop, switch to a 3-wide “grid” style
+                    1025: {
+                        slidesPerView: 3,
+                        centeredSlides: false,
+                    },
+                }}
+                className="recipe-swiper"
             >
                 {FEATURES.map((feat) => (
-                    <SwiperSlide key={feat.subtitle} className="slide">
+                    <SwiperSlide key={feat.subtitle}>
                         <FeaturedCard {...feat} />
                     </SwiperSlide>
                 ))}
             </Swiper>
         </section>
-
-    )
-        ;
+    );
 }
