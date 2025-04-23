@@ -16,6 +16,7 @@
 .swiper-slide {
     display: flex;
     justify-content: center;
+    margin: 0;
 }
 
 /* Constrain card width so it looks good on all screens */
@@ -52,3 +53,4 @@
     /*background-color: blue;*/
     padding: 0 50px;
 }
+

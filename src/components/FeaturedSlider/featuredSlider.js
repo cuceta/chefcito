@@ -53,12 +53,12 @@ export default function ExploreSectionSlider() {
                     autoplay={{delay: 2000, disableOnInteraction: true}}
                     navigation
                     pagination={{clickable: true}}
-                    spaceBetween={2}
+                    spaceBetween={20}
                     breakpoints={{
                         // desktop: 3 slides
-                        1000: {slidesPerView: 3},
+                        1100: {slidesPerView: 3},
                         // tablet: 2 slides
-                        768: {slidesPerView: 2},
+                        600: {slidesPerView: 2},
                         // mobile: 1 slide
                         0: {slidesPerView: 1},
                     }}

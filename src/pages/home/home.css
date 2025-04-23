@@ -9,6 +9,7 @@
 .HatNameLogo,
 .slogan,
 .sectionHeader,
+.features-smaller-screen,
 .features-desktop,
 hr {
     margin: 0 auto;
@@ -16,26 +17,24 @@ hr {
 
 .features-desktop{
     padding-top: 30px;
+    margin-top: -60px;
 }
 
-.features-smaller-screen{
-
-}
 
 .HatNameLogo {
     display: inline-block;
     will-change: transform;
-    margin-top: 180px;
-    height: 250px;
-    width: auto;
+    margin-top: 5%;
+    height: 50%;
+    width: 50%;
     animation: smoothWave 3s ease-in-out infinite;
 }
 
 .slogan {
-    margin-top: 5px;
     font-family: Jacques Francois, serif;
     font-size: 20pt;
-    margin-bottom: 100px;
+    margin: 5px 100px 75px 100px;
+    /*background-color: red;*/
 }
 
 .sectionHeader{
@@ -43,7 +42,7 @@ hr {
     font-weight: 400;
     font-size: 30px;
     color: #854627;
-    margin-bottom: 15px;
+    margin-bottom: -25px;
 }
 
 .home hr {
@@ -63,7 +62,9 @@ hr {
 
 
 .mission p, .vision p{
-    width: 550px;
+    width: 80%;
+    /*margin: auto 150px;*/
+    /*background-color: red;*/
     justify-self: center;
     text-align: justify;
     font-family: Inria Serif, serif;
@@ -77,6 +78,10 @@ hr {
     will-change: transform;
     transform-origin: bottom center;
     animation: smoothWave 5s linear infinite;
+}
+
+.features-smaller-screen{
+    display: none;
 }
 
 @keyframes smoothWave {
@@ -98,4 +103,39 @@ hr {
         grid-template-rows: repeat(2, 1fr) ;
         gap: 30px;
     }
+    .mission p, .vision p{
+        width: 60%;
+    }
+
+    .features-smaller-screen{
+        display: block;
+    }
+
+    .features-desktop{
+        display: none;
+    }
 }
+
+@media (max-width: 1000px) {
+    .mission p, .vision p{
+        width: 80%;
+    }
+
+    .home hr {
+        margin: 10px 50px 50px 50px;
+
+
+    }
+
+    .sectionHeader{
+        margin: auto 80px -25px 80px;
+    }
+
+    .slogan{
+        margin-right: 20px;
+        margin-left: 20px;
+    }
+
+}
+
+

@@ -9,7 +9,7 @@ const Home = () => {
     return (
         <div className="home">
             <img className="HatNameLogo" src={hatAndNameLogo} alt="hat and chefcito logo"/>
-            <p className="slogan">Cooking Made Simple & Fun! Discover easy, delicious recipes for every <br/>
+            <p className="slogan">Cooking Made Simple & Fun! Discover easy, delicious recipes for every
                 meal of the day, designed with your
                 busy life in mind.
             </p>
