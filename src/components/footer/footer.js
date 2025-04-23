@@ -12,7 +12,7 @@ const Footer = () => {
             </div>
 
             <div className="small-logo">
-                <Link to="/home" onClick={() => window.scrollTo({ top: 0, left: 0, behavior: 'smooth' })}>
+                <Link to="/" onClick={() => window.scrollTo({ top: 0, left: 0, behavior: 'smooth' })}>
                     <img src={hatAndNameLogo} alt="hat and chefcito logo"/>
                 </Link>
             </div>

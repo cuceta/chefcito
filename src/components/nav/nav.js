@@ -13,7 +13,7 @@ const Nav = () => (
                 <Link to="/lunch">LUNCH</Link>
             </li>
             <li className="nav-item logo">
-                <Link to="/home">
+                <Link to="/">
                     <img src={hatLogo} alt="Logo" className="site-logo" />
                 </Link>
             </li>

@@ -14,7 +14,7 @@ function App() {
 
             {/* define your “URL → Component” mappings */}
             <Routes>
-                <Route path="/home" element={<Home/>}/>
+                <Route path="/" element={<Home/>}/>
                 <Route path="/breakfast" element={<Breakfast />} />
                 <Route path="/lunch"     element={<Lunch />}     />
                 <Route path="/dinner"    element={<Dinner />}    />
