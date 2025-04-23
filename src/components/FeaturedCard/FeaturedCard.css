@@ -2,27 +2,30 @@
 
 .featured-card {
     position: relative;
-
 }
+
 .card-featured-text-container{
+    top: 115px;
+
     background: #2d2d23;            /* dark panel */
     position: relative;
     width: 250px;
     height: 275px;
     color: #f4e0b0; /* light text */
-    margin-top: 65px;
+    /*margin-top: 65px;*/
     padding: 160px 16px 24px;        /* top padding makes room for the circle */
     text-align: center;
     box-shadow: 0 4px 12px rgba(0,0,0,0.15);
 }
 
 .card-image-wrapper {
+top: 0;
     position: absolute;
-    top:   -50px;                   /* lifts the circle above the card */
+
     left:  50%;
     transform: translateX(-50%);
-    width: 225px;
-    height: 225px;
+    width: 230px;
+    height: 230px;
     border: 2px solid #F3E6CC;      /* light ring */
     border-radius: 50%;
     overflow: hidden;

@@ -13,6 +13,7 @@
 
 .card-container {
     display: flex;
+    /*height: 900px;*/
     flex-wrap: wrap;
     width: 95%;
     justify-self: center;

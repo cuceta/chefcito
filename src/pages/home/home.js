@@ -1,9 +1,9 @@
 import React from 'react';
-import Nav from "../../components/nav/nav";
 import './home.css'
 import hatAndNameLogo from "../../img/hatAndNameLogo.png"
 import ExploreSection from "../../components/ExploreSection/ExploreSection";
 import Footer from "../../components/footer/footer";
+import ExploreSectionSlider from "../../components/FeaturedSlider/featuredSlider";
 
 const Home = () => {
     return (
@@ -18,8 +18,12 @@ const Home = () => {
                 EXPLORE OUR DELICIOUS RECIPES
             </h1>
 
-            <div className="features">
+            <div className="features-desktop">
                 <ExploreSection/>
+            </div>
+
+            <div className="features-smaller-screen">
+                <ExploreSectionSlider/>
             </div>
 
             <hr/>

@@ -9,11 +9,18 @@
 .HatNameLogo,
 .slogan,
 .sectionHeader,
-.features,
+.features-desktop,
 hr {
     margin: 0 auto;
 }
 
+.features-desktop{
+    padding-top: 30px;
+}
+
+.features-smaller-screen{
+
+}
 
 .HatNameLogo {
     display: inline-block;
@@ -82,4 +89,13 @@ hr {
     75%  { transform: translateY(0)   rotate(0deg)   skewX(0deg); }
     87%  { transform: translateY(8px) rotate(-3deg)  skewX(-1.5deg); }
     100% { transform: translateY(0)   rotate(0deg)   skewX(0deg); }
+}
+
+@media (max-width: 1240px) {
+    .mission-vision-section {
+        display: grid;
+        grid-template-columns: repeat(1, 1fr);
+        grid-template-rows: repeat(2, 1fr) ;
+        gap: 30px;
+    }
 }

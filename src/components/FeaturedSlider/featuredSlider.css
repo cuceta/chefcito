@@ -1,0 +1,54 @@
+/*.explore-section {*/
+/*    padding: 10px 0;*/
+/*    text-align: center;*/
+/*    !*background-color: green;*!*/
+/*}*/
+
+/*.explore-heading {*/
+/*    font-family: 'Jacques Francois', serif;*/
+/*    color: #685e3b;*/
+/*    text-transform: uppercase;*/
+/*    letter-spacing: 2px;*/
+/*    margin-bottom: 40px;*/
+/*}*/
+
+/* Center each slide’s card */
+.swiper-slide {
+    display: flex;
+    justify-content: center;
+}
+
+/* Constrain card width so it looks good on all screens */
+.swiper-slide .featured-card {
+    width: 100%;
+    height: 600px;
+
+    max-width: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    /*background-color: red;*/
+}
+
+/* Optional: adjust swiper navigation button colors */
+.swiper-button-next,
+.swiper-button-prev {
+    color: #854627;
+}
+
+/* Optional: style pagination dots */
+.swiper-pagination-bullet {
+    background: #B48954;
+    opacity: 0.7;
+}
+.swiper-pagination-bullet-active {
+    opacity: 1;
+}
+
+.swiper {
+    height: 100%;
+    display: flex;
+    justify-items: center;
+    /*background-color: blue;*/
+    padding: 0 50px;
+}
