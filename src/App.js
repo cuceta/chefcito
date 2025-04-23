@@ -9,7 +9,7 @@ import Home from './pages/home/home'
 function App() {
     return (
         <BrowserRouter>
-            {/*<Nav />*/}
+            <Nav />
 
             {/* define your “URL → Component” mappings */}
             <Routes>

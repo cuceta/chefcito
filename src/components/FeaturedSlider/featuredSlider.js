@@ -1,6 +1,6 @@
 import React from 'react';
 import { Swiper, SwiperSlide } from 'swiper/react';
-import { Navigation, Pagination, Autoplay } from 'swiper/modules';
+import { Navigation, Autoplay } from 'swiper/modules';
 import 'swiper/css';
 import 'swiper/css/navigation';
 import 'swiper/css/pagination';
@@ -76,11 +76,10 @@ export default function ExploreSectionSlider() {
         <section className="explore-section">
             {/*<h2 className="explore-heading">Explore Our Delicious Recipes</h2>*/}
             <Swiper className="swiper"
-                    modules={[Navigation, Pagination, Autoplay]}
+                    modules={[Navigation, Autoplay]}
                     loop={true}
                     autoplay={{delay: 2000, disableOnInteraction: true}}
                     navigation
-                    pagination={{clickable: true}}
                     spaceBetween={20}
                     breakpoints={{
                         // desktop: 3 slides

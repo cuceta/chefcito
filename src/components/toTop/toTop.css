@@ -2,7 +2,7 @@
     position: fixed;
     right: 20px;
     /* bottom is handled inline */
-    z-index: 10000;
+    z-index: 10;
     cursor: pointer;
 }
 .toTop-container {
