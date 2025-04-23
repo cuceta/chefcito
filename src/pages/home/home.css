@@ -46,7 +46,7 @@ hr {
 }
 
 .home hr {
-    margin: 100px 100px;
+    margin: 200px 100px 100px;
     height: 1px;
     background-color: #B48954;
     border-top: 1px solid #B48954;
@@ -114,9 +114,16 @@ hr {
     .features-desktop{
         display: none;
     }
+
+    .home hr {
+        margin: 0px 50px 50px 50px;
+
+
+    }
+
 }
 
-@media (max-width: 1000px) {
+@media (max-width: 1100px) {
     .mission p, .vision p{
         width: 80%;
     }

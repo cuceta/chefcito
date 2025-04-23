@@ -8,7 +8,7 @@ const Footer = () => {
         <footer id="page-footer" className="footer">
             <div className="contact">
                 <h4>For recipe recommendations:</h4>
-                <p>CONTACT US  AT chefcito.recommendations@gmail.org</p>
+                <p>CONTACT US AT chefcito.recommendations@gmail.org</p>
             </div>
 
             <div className="small-logo">
@@ -19,7 +19,7 @@ const Footer = () => {
 
             <div className="copyright-info">
                 <h4>
-                    Copyright &copy; 2025 Chefcito<br/>All rights reserved
+                    Copyright &copy; 2025 Chefcito. All rights reserved
                 </h4>
             </div>
         </footer>

@@ -10,7 +10,7 @@ import ToTop from "./components/toTop/toTop";
 function App() {
     return (
         <BrowserRouter>
-            <Nav />
+            {/*<Nav />*/}
 
             {/* define your “URL → Component” mappings */}
             <Routes>
