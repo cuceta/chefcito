@@ -145,4 +145,10 @@ hr {
 
 }
 
+@media (max-width: 500px) {
+    .sectionHeader{
+        margin: auto 50px -25px 50px;
+    }
+}
+
 
