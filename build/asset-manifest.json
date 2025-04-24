@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.be26640a.css",
+    "main.js": "/static/js/main.79cf8990.js",
+    "static/js/453.0ef87345.chunk.js": "/static/js/453.0ef87345.chunk.js",
+    "static/media/snackBakingFeatureThumbnail.png": "/static/media/snackBakingFeatureThumbnail.1b54cc3abf1e86612b79.png",
+    "static/media/lunchFeatureThumbnail.png": "/static/media/lunchFeatureThumbnail.a615617de971cba61aa9.png",
+    "static/media/dinnerFeatureThumbnail.png": "/static/media/dinnerFeatureThumbnail.936ec6b4bcf469493113.png",
+    "static/media/breakfastFeatureThumbnail.png": "/static/media/breakfastFeatureThumbnail.cecfb7d20520d024ac5f.png",
+    "static/media/hatAndNameLogo.png": "/static/media/hatAndNameLogo.181c35ae5a0aab15c97d.png",
+    "static/media/hatAndNameLogoGold.png": "/static/media/hatAndNameLogoGold.fc13196e0dabb70c4def.png",
+    "static/media/hatLogo.png": "/static/media/hatLogo.2cd0386d08196268d4e8.png",
+    "static/media/up-arrow.svg": "/static/media/up-arrow.f64692df2f6164c3eb725a7223318562.svg",
+    "index.html": "/index.html",
+    "main.be26640a.css.map": "/static/css/main.be26640a.css.map",
+    "main.79cf8990.js.map": "/static/js/main.79cf8990.js.map",
+    "453.0ef87345.chunk.js.map": "/static/js/453.0ef87345.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.be26640a.css",
+    "static/js/main.79cf8990.js"
+  ]
+}
