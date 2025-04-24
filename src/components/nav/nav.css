@@ -80,8 +80,9 @@
     z-index: 999;
     display: flex;
     flex-direction: column;
-    align-items: center;
-    justify-content: center;
+    align-items: end;
+    justify-content: flex-start;
+
 }
 
 /* close “×” button in top right */
@@ -95,12 +96,23 @@
     cursor: pointer;
 }
 
+.close-button{
+    font-family: sans-serif;
+    margin-right: 20px;
+    font-size: 60px;
+    font-weight: 100;
+}
+
 /* the vertical list inside the overlay */
 .mobile-menu-list {
     list-style: none;
     padding: 0;
-    margin: 0;
-    text-align: center;
+    /*margin: 0;*/
+    text-align: right;
+    font-family: Inknut Antiqua, serif;
+    margin-top: 50px;
+    margin-right: 40px;
+    /*background-color: red;*/
 }
 
 .mobile-menu-list li {
@@ -113,6 +125,15 @@
     text-decoration: none;
 }
 
+.mobile-menu-list li a:hover{
+    text-decoration: underline;
+    text-underline-offset: 3px;
+}
+
+.close-button:hover{
+    transform: scale(120%);
+    /*transition-delay: 2s;*/
+}
 
 @media (max-width: 900px) {
     .site-logo {

@@ -51,13 +51,13 @@ const Nav = () => {
                 onClick={() => setMenuOpen(false)}
                 aria-label="Close menu"
             >
-                ×
+                x
             </button>
             <ul className="mobile-menu-list">
                 {[
+                    { to: '/',          label: 'HOME' },
                     { to: '/breakfast', label: 'BREAKFAST' },
                     { to: '/lunch',     label: 'LUNCH'     },
-                    { to: '/',          label: <img src={hatLogo} alt="Logo" className="site-logo" /> },
                     { to: '/dinner',    label: 'DINNER'    },
                     { to: '/snack',     label: 'SNACK'     },
                 ].map(({ to, label }) => (
