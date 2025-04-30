@@ -65,7 +65,23 @@ top: 0;
     color: #F3E6CC;
     text-decoration: none;
     margin-top: 20px;
+    background-color: #B48954;
+    padding: 5px 8px;
+    border-radius: 2px;
+
+    transition: transform 1s;
 }
 .card-link:hover {
-    text-decoration: underline;
+    /*text-decoration: underline;*/
+    /*transform: scale3d(120%, 120%, 120%);*/
+
+    /*padding: 8px 11px;*/
+    /*font-size: 16px;*/
+    /*!*transition: 0.5s;*!*/
+
+    /*transform: scale(5);*/
+
+    background-color: #685e3b;
+    color: #B48954;
+
 }
