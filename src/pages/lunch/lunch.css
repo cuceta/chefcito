@@ -1,6 +1,7 @@
 .lunch-page {
     margin-top: -30px;
     background-color: #F3E6CC;
+    text-align: center;
 }
 
 .lunch-page h1{
@@ -19,4 +20,17 @@
     justify-items: center;
     gap: 3rem;
     margin: 2rem 2rem 8rem 2rem;
+}
+
+@media (max-width: 750px) {
+    .lunch-page h1{
+        width: 400px;
+    }
+}
+
+@media (max-width: 400px) {
+    .lunch-page h1{
+        width: 100%;
+        font-size: 40px;
+    }
 }

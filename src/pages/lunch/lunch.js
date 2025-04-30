@@ -12,7 +12,7 @@ export default function Lunch() {
     return (
         <div className="lunch-page">
 
-            <h1>LUNCH RECIPES</h1>
+            <h1>CHEFCITO'S LUNCH RECIPES</h1>
 
             <div className="lunch-grid">
                 {recipes.map(r => (
