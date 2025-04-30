@@ -24,9 +24,9 @@ hr {
 .HatNameLogo {
     display: inline-block;
     will-change: transform;
-    margin-top: 5%;
-    height: 50%;
-    width: 50%;
+    margin-top: 15%;
+    height: 30%;
+    width: 30%;
     animation: smoothWave 3s ease-in-out infinite;
 }
 
