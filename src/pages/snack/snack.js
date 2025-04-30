@@ -12,7 +12,7 @@ export default function Snack() {
     return (
         <div className="snack-page">
 
-            <h1>SNACK RECIPES</h1>
+            <h1>CHEFCITO'S SNACK RECIPES</h1>
 
             <div className="snack-grid">
                 {recipes.map(r => (

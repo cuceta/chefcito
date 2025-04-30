@@ -12,7 +12,7 @@ export default function Breakfast() {
     return (
         <div className="breakfast-page">
 
-            <h1>BREAKFAST RECIPES</h1>
+            <h1>CHEFCITO'S BREAKFAST RECIPES</h1>
 
             <div className="breakfast-grid">
                 {recipes.map(r => (
