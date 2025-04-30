@@ -6,8 +6,9 @@
   <component name="ChangeListManager">
     <list default="true" id="4fa746e9-5e8d-471a-ae2d-fb036f2445fe" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/FeaturedCard/FeaturedCard.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/FeaturedCard/FeaturedCard.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/home/home.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/home/home.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/default-development/14.pack" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/default-development/14.pack" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/footer/footer.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/footer/footer.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/footer/footer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/footer/footer.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,7 +88,7 @@
       <updated>1745166840136</updated>
       <workItem from="1745166841135" duration="330000" />
       <workItem from="1745167268290" duration="96726000" />
-      <workItem from="1746018663433" duration="1578000" />
+      <workItem from="1746018663433" duration="2281000" />
     </task>
     <servers />
   </component>
