@@ -30,7 +30,8 @@ const Home = () => {
 
             <div className="mission-vision-section">
                 <div className="mission">
-                    <h1 className="sectionHeader">
+                    {/* eslint-disable-next-line react/style-prop-object */}
+                    <h1 className="sectionHeader" style={{marginBottom: "-10px"}}>
                         OUR MISSION
                     </h1>
                     <p>
@@ -42,7 +43,7 @@ const Home = () => {
                 </div>
 
                 <div className="vision">
-                    <h1 className="sectionHeader">
+                    <h1 className="sectionHeader" style={{marginBottom: "-10px"}}>
                         OUR VISION
                     </h1>
                     <p>
