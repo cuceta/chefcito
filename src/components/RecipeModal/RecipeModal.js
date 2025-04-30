@@ -13,7 +13,7 @@ export default function RecipeModal({ recipe, onClose }) {
                     <h3 className="recipe-section-title ">Allergen Warning: </h3>
                     <span className="details">{recipe.allergenWarning}</span>
                 </div>
-                <div className="detail-line">
+                <div className="detail-line" style={{marginBottom: "-15px"}}>
                     <h3 className="recipe-section-title ">Substitute: </h3>
                     <span className="details">{recipe.substitutions}</span>
                 </div>

@@ -24,13 +24,13 @@
 
 @media (max-width: 750px) {
     .breakfast-page h1{
-        width: 400px;
+        width: 500px;
     }
 }
 
-@media (max-width: 400px) {
+@media (max-width: 500px) {
     .breakfast-page h1{
-        width: 100%;
+        width: 95%;
         font-size: 35px;
     }
 }

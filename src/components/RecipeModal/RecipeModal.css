@@ -5,16 +5,20 @@
     justify-content: center;
     align-items: center;
     padding: 1rem;
-    /*margin-top: 80px;*/
+    z-index: 10;
+    max-height: 100%;
 }
 .modal-content {
     background: #685E3B;
     max-width: 900px;
     width: 100%;
-    max-height: 90vh;
-    overflow-y: auto;
+    max-height: 95%;
+    overflow-y: scroll;
     position: relative;
+    text-align: left;
     padding: 3rem 3rem 4rem 3rem;
+    scrollbar-color: #B48954 #685e3b;
+
 }
 .modal-close {
     color: #B48954;
@@ -22,6 +26,7 @@
     background: none; border: none;
     font-size: 1.5rem; cursor: pointer;
     font-weight: lighter;
+
 }
 .modal-content img {
     width: 100%; border-radius: 4px; margin: 1rem 0;
@@ -33,6 +38,7 @@
     font-family: Jacques Francois, serif;
     font-weight: 100;
     color: #B48954;
+    align-self: flex-start;
 }
 
 .recipe-title{
@@ -90,4 +96,75 @@
 
 .space{
     height: 30px;
+}
+
+.modal-overlay {
+    padding: 0;
+}
+
+/* fixed 1rem gutter all around + fluid width */
+.modal-content {
+    margin: 1rem;                          /* 1rem on top/right/bottom/left */
+    width: calc(100% - 2rem);              /* fill remaining space inside those margins */
+    max-width: 900px;                      /* never grow past your desktop cap */
+    max-height: calc(100vh - 2rem);        /* likewise vertically */
+    box-sizing: border-box;                /* include padding/border in the width calc */
+    overflow-y: auto;                      /* keep scrolling inside */
+}
+
+.modal-content {
+    display: flex;
+    flex-direction: column;
+    max-height: 90vh;
+    overflow-y: auto;
+}
+
+.modal-close {
+    /* remove your old absolute positioning */
+    position: sticky;
+    top: -1rem;           /* keep 1rem down from the top edge */
+    right: -20rem;           /* keep 1rem down from the top edge */
+
+    align-self: flex-end;/* push it to the right edge */
+    z-index: 10;         /* above the scrolling content */
+    background: none;
+    border: none;
+    font-size: 1.5rem;
+    cursor: pointer;
+    font-weight: lighter;
+    color: #B48954;
+}
+
+
+@media (max-width: 750px) {
+    /* 1) Kill the overlay’s padding so you don’t get double gaps */
+    .modal-overlay {
+        padding: 0;
+    }
+
+    /* 2) Force the modal to be inset 1rem on every side */
+    .modal-content {
+        margin: 1rem;
+        /* make width exactly viewport minus the 2 × 1rem margins */
+        width: calc(100% - 2rem);
+        max-width: 900px; /* keep your desktop cap */
+        /* same idea vertically—viewport minus top+bottom margins */
+        max-height: calc(100vh - 2rem);
+        overflow-y: auto;
+    }
+}
+
+@media (max-width: 600px) {
+
+    .detail-line {
+        display: flex;          /* already flex, but just to be explicit */
+        flex-direction: column; /* stack children vertically */
+        margin-left: 0;         /* remove the indent on small screens */
+        gap: 1px;           /* tighten the vertical gap if you like */
+    }
+
+    /* give a little breathing room under each heading */
+    .detail-line .details {
+        margin-bottom: 15px;
+    }
 }

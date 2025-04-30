@@ -14,14 +14,12 @@
       <change beforePath="$PROJECT_DIR$/node_modules/.cache/default-development/5.pack" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/default-development/5.pack" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/node_modules/.cache/default-development/index.pack" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/default-development/index.pack" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/node_modules/.cache/default-development/index.pack.old" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/default-development/index.pack.old" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/FeaturedSlider/featuredSlider.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/FeaturedSlider/featuredSlider.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/RecipeModal/RecipeModal.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/RecipeModal/RecipeModal.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/RecipeModal/RecipeModal.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/RecipeModal/RecipeModal.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/footer/footer.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/footer/footer.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/toTop/toTop.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/toTop/toTop.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/pages/breakfast/breakfast.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/breakfast/breakfast.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/breakfast/breakfast.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/breakfast/breakfast.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/dinner/dinner.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/dinner/dinner.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/dinner/dinner.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/dinner/dinner.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/lunch/lunch.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/lunch/lunch.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/lunch/lunch.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/lunch/lunch.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/snack/snack.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/snack/snack.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/snack/snack.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/snack/snack.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -101,7 +99,7 @@
       <updated>1745166840136</updated>
       <workItem from="1745166841135" duration="330000" />
       <workItem from="1745167268290" duration="96726000" />
-      <workItem from="1746018663433" duration="4729000" />
+      <workItem from="1746018663433" duration="11042000" />
     </task>
     <servers />
   </component>

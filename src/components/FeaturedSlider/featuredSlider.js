@@ -78,7 +78,7 @@ export default function ExploreSectionSlider() {
             <Swiper className="swiper"
                     modules={[Navigation, Autoplay]}
                     loop={true}
-                    autoplay={{delay: 2000, disableOnInteraction: true}}
+                    autoplay={{delay: 2000, disableOnInteraction: false}}
                     navigation
                     spaceBetween={20}
                     breakpoints={{
