@@ -13,6 +13,7 @@ export default function Snack() {
         <div className="snack-page">
 
             <h1>CHEFCITO'S SNACK RECIPES</h1>
+            <p className="snippet">Healthy tasty snacks and baking recipes</p>
 
             <div className="snack-grid">
                 {recipes.map(r => (

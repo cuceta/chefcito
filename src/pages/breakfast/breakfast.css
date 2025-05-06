@@ -5,7 +5,8 @@
 }
 
 .breakfast-page h1{
-    padding: 120px 0 50px 0;
+    padding: 120px 0 0 0;
+    margin-bottom: -10px;
     justify-self: center;
     color: #685E3B;
     font-family: "IM Fell French Canon SC", serif;
@@ -13,6 +14,12 @@
     font-size: 45px;
 }
 
+.snippet{
+    padding-bottom: 50px;
+    font-family: Jacques Francois, serif;
+    color: #854627;
+    font-size: 20px;
+}
 
 .breakfast-grid {
     display: grid;

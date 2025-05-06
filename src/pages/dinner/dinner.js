@@ -13,6 +13,7 @@ export default function Dinner() {
         <div className="dinner-page">
 
             <h1>CHEFCITO'S DINNER RECIPES</h1>
+            <p className="snippet">Filling and nutritious dinner recipes</p>
 
             <div className="dinner-grid">
                 {recipes.map(r => (

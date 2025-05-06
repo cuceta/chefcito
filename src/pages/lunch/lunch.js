@@ -13,6 +13,7 @@ export default function Lunch() {
         <div className="lunch-page">
 
             <h1>CHEFCITO'S LUNCH RECIPES</h1>
+            <p className="snippet">Quick and delicious lunch recipes</p>
 
             <div className="lunch-grid">
                 {recipes.map(r => (
