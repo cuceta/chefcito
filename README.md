@@ -62,7 +62,7 @@ I developed Chefcito as a solo project. My work included:
 To run this project locally:
 
 ```bash
-git clone https://github.com/yourusername/chefcito.git
+git clone https://github.com/cuceta/chefcito
 cd chefcito
 npm install
 npm start
