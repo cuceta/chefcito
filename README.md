@@ -1,70 +1,68 @@
-# Getting Started with Create React App
+# Chefcito
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Live Demo
+View the live site here:
+[Chefcito](https://chefcito-recipes.netlify.app/)
 
-## Available Scripts
+ 
+## Overview
+Chefcito is a recipe discovery web application built with React that allows users to search for recipes, browse categories, and explore meals through an interactive and user-friendly interface. The project focuses on front-end development, UI design, and building a responsive web application.
 
-In the project directory, you can run:
+ 
+## Problem
+Many recipe websites are cluttered, difficult to navigate, and overwhelming for users who just want to quickly find recipes or get meal ideas. Users need a simple, clean platform where they can easily search for recipes and explore new meals.
 
-### `npm start`
+ 
+## Solution
+Chefcito provides a clean and simple interface where users can:
+- Search for recipes
+- Browse recipes by category
+- View recipe details
+- Explore ingredients
+- Navigate easily between pages
+- Use the site on desktop, tablet, or mobile devices
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+The goal of Chefcito is to make recipe discovery simple, organized, and visually appealing.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+ 
+## My Role
+I developed Chefcito as a solo project. My work included:
+- Product planning
+- Feature planning
+- UI/UX design
+- Front-end development using React
+- Component architecture
+- Responsive design implementation
+- Routing and navigation
+- Interactive UI components
 
-### `npm test`
+ 
+## Features
+- Recipe search functionality
+- Recipe categories
+- Recipe cards
+- Recipe detail pages
+- Filtering functionality
+- Responsive design
+- Navigation between pages
+- Interactive UI components
+- Clean and modern interface
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+ 
+## Tech Stack
+- React
+- JavaScript
+- HTML
+- CSS
+- React Router
+- Git & GitHub
 
-### `npm run build`
+ 
+## Installation
+To run this project locally:
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+```bash
+git clone https://github.com/yourusername/chefcito.git
+cd chefcito
+npm install
+npm start
